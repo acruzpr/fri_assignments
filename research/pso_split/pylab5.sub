@@ -2,7 +2,7 @@
 #
 #$ -cwd
 #$ -j y
-#$ -N pso_26
+#$ -N pso_26_split
 #$ -m es
 #$ -V
 #$ -M brian.mathew.richer@gmail.com

@@ -1,0 +1,1872 @@
+rfd: 6
+start
+BasinHopping: step -1, energy     -165.063219, emin     -165.063219, dr        0.300000
+BasinHopping: step -1, energy     -165.681871, emin     -165.681871, dr        0.300000
+BasinHopping: step -1, energy     -160.654592, emin     -160.654592, dr        0.300000
+BasinHopping: step -1, energy     -166.413778, emin     -166.413778, dr        0.300000
+BasinHopping: step -1, energy     -168.824113, emin     -168.824113, dr        0.300000
+BasinHopping: step -1, energy     -172.877735, emin     -172.877735, dr        0.300000
+BasinHopping: step -1, energy     -164.499511, emin     -164.499511, dr        0.300000
+BasinHopping: step -1, energy     -165.486058, emin     -165.486058, dr        0.300000
+BasinHopping: step -1, energy     -167.154095, emin     -167.154095, dr        0.300000
+BasinHopping: step -1, energy     -160.903364, emin     -160.903364, dr        0.300000
+BasinHopping: step -1, energy     -161.528494, emin     -161.528494, dr        0.300000
+BasinHopping: step -1, energy     -168.169431, emin     -168.169431, dr        0.300000
+BasinHopping: step -1, energy     -165.305071, emin     -165.305071, dr        0.300000
+BasinHopping: step -1, energy     -164.119286, emin     -164.119286, dr        0.300000
+BasinHopping: step -1, energy     -165.189700, emin     -165.189700, dr        0.300000
+BasinHopping: step -1, energy     -168.254608, emin     -168.254608, dr        0.300000
+BasinHopping: step -1, energy     -162.105635, emin     -162.105635, dr        0.300000
+BasinHopping: step -1, energy     -160.830978, emin     -160.830978, dr        0.300000
+BasinHopping: step -1, energy     -164.865277, emin     -164.865277, dr        0.300000
+BasinHopping: step -1, energy     -166.497169, emin     -166.497169, dr        0.300000
+BasinHopping: step -1, energy     -165.510033, emin     -165.510033, dr        0.300000
+BasinHopping: step -1, energy     -167.154870, emin     -167.154870, dr        0.300000
+BasinHopping: step -1, energy     -165.728444, emin     -165.728444, dr        0.300000
+BasinHopping: step -1, energy     -165.757114, emin     -165.757114, dr        0.300000
+BasinHopping: step -1, energy     -164.825662, emin     -164.825662, dr        0.300000
+BasinHopping: step -1, energy     -168.954257, emin     -168.954257, dr        0.300000
+BasinHopping: step -1, energy     -165.124274, emin     -165.124274, dr        0.300000
+BasinHopping: step -1, energy     -166.258897, emin     -166.258897, dr        0.300000
+BasinHopping: step -1, energy     -167.962958, emin     -167.962958, dr        0.300000
+BasinHopping: step -1, energy     -166.662663, emin     -166.662663, dr        0.300000
+mag_mag:  0.101751773336
+mag_mag:  0.0
+mag_mag:  0.110329286962
+mag_mag:  0.102224591326
+mag_mag:  0.101470168015
+mag_mag:  0.043101261586
+mag_mag:  0.0209117956477
+mag_mag:  0.102224591326
+mag_mag:  0.0
+mag_mag:  0.0245396226513
+mag_mag:  0.0565012223892
+mag_mag:  0.0285970494166
+mag_mag:  0.101470168015
+mag_mag:  0.0245396226513
+mag_mag:  0.0
+mag_mag:  0.0406017924458
+mag_mag:  0.0245770285051
+mag_mag:  0.123583474548
+mag_mag:  0.0398503945701
+mag_mag:  0.0435041727316
+mag_mag:  0.0493742400424
+mag_mag:  0.132930753949
+mag_mag:  0.0497235565873
+mag_mag:  0.0509543731327
+mag_mag:  0.0112355179032
+mag_mag:  0.0718966849714
+mag_mag:  0.0628528333868
+mag_mag:  0.0550508982565
+mag_mag:  0.0502894567715
+mag_mag:  0.0812810141078
+mag_mag:  0.037026266844
+mag_mag:  0.0568195042188
+mag_mag:  0.0560212299376
+mag_mag:  0.0580650813773
+mag_mag:  0.0700088149807
+mag_mag:  0.153448852631
+mag_mag:  0.0605932798742
+mag_mag:  0.102959836837
+mag_mag:  0.0614943593728
+mag_mag:  0.0355410542338
+mag_mag:  0.070670667529
+mag_mag:  0.0467960976729
+mag_mag:  0.0258077754688
+mag_mag:  0.0390053902805
+mag_mag:  0.0573250069867
+mag_mag:  0.13745296432
+mag_mag:  0.0626447603966
+mag_mag:  0.0716088432423
+mag_mag:  0.0620412400289
+mag_mag:  0.0296451313019
+mag_mag:  0.0536564906822
+mag_mag:  0.0498986487488
+mag_mag:  0.035094567278
+mag_mag:  0.0519149864321
+mag_mag:  0.0785735844103
+mag_mag:  0.0625455795527
+mag_mag:  0.0523874682846
+mag_mag:  0.0483541143323
+mag_mag:  0.0590431399496
+mag_mag:  0.0839418674803
+mag_mag:  0.109432688705
+mag_mag:  0.0462698127059
+mag_mag:  0.0497940505948
+mag_mag:  0.0511422571772
+mag_mag:  0.0285884677095
+mag_mag:  0.11380466721
+mag_mag:  0.0324510030088
+mag_mag:  0.0463343059671
+mag_mag:  0.0296875107388
+mag_mag:  0.0166965138025
+mag_mag:  0.101573803226
+mag_mag:  0.0231319908007
+mag_mag:  0.0357049419689
+mag_mag:  0.0219109488553
+mag_mag:  0.0282114717165
+mag_mag:  0.129838987158
+mag_mag:  0.0436997359527
+mag_mag:  0.0632756515287
+mag_mag:  0.04266313381
+mag_mag:  0.0194091695794
+mag_mag:  0.127866850971
+mag_mag:  0.0500951380846
+mag_mag:  0.0576396974326
+mag_mag:  0.0376922152768
+mag_mag:  0.0317864240248
+current bests:
+0 :  -165.681870756  bcm:  [ 1.          0.2244491   0.0760033   0.0271147   0.04381809  0.03933721]
+1 :  -166.413778441  bcm:  [ 1.          0.13624691  0.03312924  0.04146506  0.04223158  0.06430934]
+2 :  -168.254608153  bcm:  [ 1.          0.1559953   0.06220143  0.03299054  0.05247093  0.03641629]
+3 :  -168.824112809  bcm:  [ 1.          0.13323783  0.03327541  0.02692783  0.05271051  0.04781758]
+4 :  -172.877734562  bcm:  [ 1.          0.1057686   0.05377946  0.04987252  0.03949368  0.051879  ]
+BasinHopping: step 1, energy     -167.709459, emin     -167.709459, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.681871, emin     -165.681871, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -169.697605, emin     -169.697605, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.413778, emin     -166.413778, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.437599, emin     -168.824113, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.437598, emin     -168.824113, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -166.437600, emin     -168.824113, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -166.437599, emin     -168.824113, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.377353, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.377354, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.377354, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.377354, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -172.877734, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.441715, emin     -165.486058, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.254609, emin     -168.254609, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.137676, emin     -165.137676, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598246, emin     -167.598246, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -172.877735, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.881473, emin     -165.305071, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.881473, emin     -165.305071, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.881473, emin     -165.305071, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.675575, emin     -166.675575, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.006736, emin     -167.006736, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.441715, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.441715, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.441715, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.441715, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.218924, emin     -165.218924, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598248, emin     -167.598248, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.813602, emin     -165.813602, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598247, emin     -167.598247, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.441716, emin     -165.510033, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.262704, emin     -167.154870, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.262706, emin     -167.154870, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.441716, emin     -167.154870, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.262700, emin     -167.154870, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.195319, emin     -165.728444, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.195318, emin     -165.728444, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.195318, emin     -165.728444, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.195318, emin     -165.728444, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.753523, emin     -165.757114, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -172.877735, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.806003, emin     -168.954257, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.190276, emin     -168.954257, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.806003, emin     -168.954257, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.806003, emin     -168.954257, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.079909, emin     -165.124274, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.079908, emin     -165.124274, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.079904, emin     -165.124274, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.079910, emin     -165.124274, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.672034, emin     -166.672034, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598247, emin     -167.962958, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.072643, emin     -166.662663, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.072643, emin     -166.662663, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.072643, emin     -166.662663, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.072643, emin     -166.662663, dr        0.300000
+Accept:  False
+BasinHopping: step -1, energy     -163.663311, emin     -163.663311, dr        0.300000
+BasinHopping: step -1, energy     -168.303259, emin     -168.303259, dr        0.300000
+BasinHopping: step -1, energy     -163.928997, emin     -163.928997, dr        0.300000
+BasinHopping: step -1, energy     -164.089415, emin     -164.089415, dr        0.300000
+BasinHopping: step -1, energy     -162.566258, emin     -162.566258, dr        0.300000
+BasinHopping: step -1, energy     -169.492595, emin     -169.492595, dr        0.300000
+mag_mag:  0.16364477282
+mag_mag:  0.0676810716652
+mag_mag:  0.100754736645
+mag_mag:  0.0767296126195
+mag_mag:  0.0456048305925
+mag_mag:  0.180977466485
+mag_mag:  0.0922316969006
+mag_mag:  0.112606219939
+mag_mag:  0.0876202896802
+mag_mag:  0.065316334918
+mag_mag:  0.0721713161201
+mag_mag:  0.0332431074989
+mag_mag:  0.0252092555707
+mag_mag:  0.112083786789
+mag_mag:  0.0579279895132
+mag_mag:  0.11380466721
+mag_mag:  0.0324510030088
+mag_mag:  0.0463343059671
+mag_mag:  0.0689266656392
+mag_mag:  0.0166965138025
+mag_mag:  0.0372326845624
+mag_mag:  0.0809458306161
+mag_mag:  0.0647402638475
+mag_mag:  0.169333680411
+mag_mag:  0.109719314795
+mag_mag:  0.0809469171083
+mag_mag:  1.22563893963e-05
+mag_mag:  0.046793078429
+mag_mag:  0.0922298433453
+mag_mag:  0.0398484130371
+mag_mag:  0.0856848836666
+mag_mag:  0.0245396226513
+mag_mag:  0.0390053902805
+mag_mag:  0.0876202896802
+mag_mag:  0.0435041727316
+mag_mag:  0.0770061580456
+mag_mag:  0.0237453082046
+mag_mag:  0.0319870958051
+mag_mag:  0.0941987980697
+mag_mag:  0.0351196881152
+mag_mag:  0.0275453691315
+mag_mag:  0.0895390079708
+mag_mag:  0.0682970021683
+mag_mag:  0.179184101365
+mag_mag:  0.121276562989
+mag_mag:  0.0584166260174
+mag_mag:  0.146940647959
+mag_mag:  0.085117532456
+mag_mag:  0.0492358840427
+mag_mag:  0.0388405591159
+mag_mag:  0.0559543475045
+mag_mag:  0.142908036784
+mag_mag:  0.0764646920795
+mag_mag:  0.0411172919854
+mag_mag:  0.0260523723456
+mag_mag:  0.0559501301159
+mag_mag:  0.142902931946
+mag_mag:  0.0764594630215
+mag_mag:  0.0411227114576
+mag_mag:  0.0260483162951
+mag_mag:  0.055949176679
+mag_mag:  0.142902637207
+mag_mag:  0.0764592659339
+mag_mag:  0.0411225940693
+mag_mag:  0.0260481937415
+mag_mag:  0.055944819039
+mag_mag:  0.142897781802
+mag_mag:  0.0764542624365
+mag_mag:  0.0411263462138
+mag_mag:  0.0260459470213
+mag_mag:  0.0667451985885
+mag_mag:  0.154862604387
+mag_mag:  0.0910520161051
+mag_mag:  0.0405308620679
+mag_mag:  0.0431840269105
+mag_mag:  0.0319869010965
+mag_mag:  0.0682965743687
+mag_mag:  1.5980403183e-05
+mag_mag:  0.112605280957
+mag_mag:  0.0573276229111
+mag_mag:  0.0413982771065
+mag_mag:  0.110089837748
+mag_mag:  0.0449833191995
+mag_mag:  0.0791895626454
+mag_mag:  0.0424983485322
+mag_mag:  0.121275127412
+mag_mag:  0.0573263983359
+mag_mag:  0.0653176630599
+mag_mag:  0.0424983994035
+mag_mag:  2.74311498171e-06
+mag_mag:  0.121272341888
+mag_mag:  0.0573234620056
+mag_mag:  0.0653198191715
+mag_mag:  0.0424965208945
+mag_mag:  4.70608614252e-06
+mag_mag:  0.121275458209
+mag_mag:  0.0573263323589
+mag_mag:  0.0653173163669
+mag_mag:  0.0424970375731
+mag_mag:  4.53335225455e-06
+current bests:
+0 :  -166.675574868  bcm:  [ 1.          0.22414249  0.05934327  0.03303542  0.04927522  0.03498215]
+1 :  -168.254609027  bcm:  [ 1.          0.1559963   0.06219958  0.03298219  0.05248037  0.03642589]
+2 :  -169.492594727  bcm:  [ 1.          0.04697374  0.04425849  0.02379722  0.04506472  0.05466847]
+3 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+4 :  -172.877734662  bcm:  [ 1.          0.10576957  0.05377996  0.04987292  0.03949533  0.0518786 ]
+Optimizations:  26 Bcms:  6 Best Energy:  -172.877734662
+BasinHopping: step 1, energy     -163.653406, emin     -163.663311, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.338646, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.338646, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.338645, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.338646, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.534352, emin     -164.534352, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -172.877734, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.958451, emin     -164.958451, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -169.351681, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.566495, emin     -165.218924, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.566494, emin     -165.218924, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.566496, emin     -165.218924, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.566495, emin     -165.218924, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.598248, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.813991, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.813991, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.813991, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.813991, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.595232, emin     -165.486058, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.595233, emin     -165.486058, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.531374, emin     -165.531374, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.405931, emin     -165.510033, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.675575, emin     -166.675575, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.017824, emin     -165.757114, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.017824, emin     -165.757114, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -172.877734, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.551111, emin     -165.813602, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -161.978657, emin     -166.413778, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.116002, emin     -166.413778, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.145492, emin     -166.413778, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.145492, emin     -166.413778, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.716352, emin     -168.824113, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -160.086287, emin     -166.672034, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -160.086286, emin     -166.672034, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -160.086287, emin     -166.672034, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -160.083357, emin     -166.672034, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.813596, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.813596, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.813596, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.813596, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.069789, emin     -167.006736, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.069788, emin     -167.006736, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.069789, emin     -167.006736, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.069789, emin     -167.006736, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.510997, emin     -167.598246, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.510998, emin     -167.598246, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.510999, emin     -167.598246, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.510999, emin     -167.598246, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.994899, emin     -167.962958, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.994899, emin     -167.962958, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.994898, emin     -167.962958, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.994899, emin     -167.962958, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.411069, emin     -167.598247, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.008549, emin     -167.598248, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.008548, emin     -167.598248, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.008548, emin     -167.598248, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.008548, emin     -167.598248, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.186954, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.909222, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.186954, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.186954, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.964474, emin     -168.254609, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.751556, emin     -169.697605, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.751556, emin     -169.697605, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.751556, emin     -169.697605, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.751556, emin     -169.697605, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.285517, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.285517, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.285517, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.285516, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.844158, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.844158, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.844158, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.844158, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.717941, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -167.717941, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -167.717941, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -167.717941, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step -1, energy     -163.342696, emin     -163.342696, dr        0.300000
+BasinHopping: step -1, energy     -161.215494, emin     -161.215494, dr        0.300000
+BasinHopping: step -1, energy     -163.719934, emin     -163.719934, dr        0.300000
+BasinHopping: step -1, energy     -167.082532, emin     -167.082532, dr        0.300000
+BasinHopping: step -1, energy     -162.630397, emin     -162.630397, dr        0.300000
+BasinHopping: step -1, energy     -171.782302, emin     -171.782302, dr        0.300000
+mag_mag:  0.0534525691474
+mag_mag:  0.044128357625
+mag_mag:  0.135775983638
+mag_mag:  0.0812867055987
+mag_mag:  0.0827068264726
+mag_mag:  0.111163050596
+mag_mag:  0.0510406074856
+mag_mag:  0.0743806149505
+mag_mag:  0.049552971964
+mag_mag:  0.0228005807829
+mag_mag:  0.0970903890118
+mag_mag:  0.040221730465
+mag_mag:  0.0871233655947
+mag_mag:  0.0440549607966
+mag_mag:  0.0308733325253
+mag_mag:  0.0478827743562
+mag_mag:  0.0358518776557
+mag_mag:  0.135908308365
+mag_mag:  0.0708846521828
+mag_mag:  0.082658898305
+mag_mag:  0.142902300776
+mag_mag:  0.0764598066493
+mag_mag:  0.041121803873
+mag_mag:  0.0463234745484
+mag_mag:  0.0260510583571
+mag_mag:  0.121275458209
+mag_mag:  0.0573263323589
+mag_mag:  0.0653173163669
+mag_mag:  0.0424970375731
+mag_mag:  0.0
+mag_mag:  0.0967827838069
+mag_mag:  0.0347355638392
+mag_mag:  0.0855353015213
+mag_mag:  0.0308723937289
+mag_mag:  0.0337997581337
+mag_mag:  0.185157649784
+mag_mag:  0.119840793305
+mag_mag:  0.0204781305428
+mag_mag:  0.0855387602711
+mag_mag:  0.0690442594898
+mag_mag:  0.121273092735
+mag_mag:  0.057324179085
+mag_mag:  0.0653200919378
+mag_mag:  0.0424965150961
+mag_mag:  4.50929416323e-06
+mag_mag:  0.12127360331
+mag_mag:  0.0573253485097
+mag_mag:  0.0653219254998
+mag_mag:  0.0424980848435
+mag_mag:  6.31208287105e-06
+current bests:
+0 :  -166.675574868  bcm:  [ 1.          0.22414249  0.05934327  0.03303542  0.04927522  0.03498215]
+1 :  -168.254609027  bcm:  [ 1.          0.1559963   0.06219958  0.03298219  0.05248037  0.03642589]
+2 :  -169.492594727  bcm:  [ 1.          0.04697374  0.04425849  0.02379722  0.04506472  0.05466847]
+3 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+4 :  -172.877734662  bcm:  [ 1.          0.10576957  0.05377996  0.04987292  0.03949533  0.0518786 ]
+Optimizations:  59 Bcms:  18 Best Energy:  -172.877734662
+BasinHopping: step 1, energy     -169.216125, emin     -169.216125, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.675575, emin     -166.675575, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.262704, emin     -164.262704, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.441715, emin     -167.082532, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.441716, emin     -167.082532, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.525031, emin     -167.082532, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.525009, emin     -167.082532, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.225545, emin     -163.225545, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598248, emin     -171.782302, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -170.857561, emin     -171.782302, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -167.598248, emin     -171.782302, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -167.598247, emin     -171.782302, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.285517, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.566494, emin     -165.218924, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -161.261860, emin     -163.663311, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.261863, emin     -163.663311, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.261860, emin     -163.663311, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.261860, emin     -163.663311, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -156.978583, emin     -165.757114, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -156.978583, emin     -165.757114, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -156.978583, emin     -165.757114, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -156.978583, emin     -165.757114, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.473750, emin     -167.709459, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.156885, emin     -168.303259, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.809333, emin     -166.809333, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.441716, emin     -168.254608, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.844158, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.069788, emin     -167.006736, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.664973, emin     -165.510033, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.664973, emin     -165.510033, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.664972, emin     -165.510033, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.664972, emin     -165.510033, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.479990, emin     -166.479990, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -161.342680, emin     -165.813602, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.342680, emin     -165.813602, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.342679, emin     -165.813602, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.342680, emin     -165.813602, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.813597, emin     -166.675575, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -154.303586, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -154.303586, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -154.303586, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -154.303586, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.694331, emin     -168.824113, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.921165, emin     -167.598247, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.921163, emin     -167.598247, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.921165, emin     -167.598247, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.921163, emin     -167.598247, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -172.877735, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.717943, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.262518, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.321168, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.299204, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.095374, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -169.492595, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -155.989581, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -155.989581, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -155.989581, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -155.989581, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.391078, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.391078, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.391079, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.391078, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step -1, energy     -164.921351, emin     -164.921351, dr        0.300000
+BasinHopping: step -1, energy     -167.556650, emin     -167.556650, dr        0.300000
+BasinHopping: step -1, energy     -164.782199, emin     -164.782199, dr        0.300000
+BasinHopping: step -1, energy     -164.509198, emin     -164.509198, dr        0.300000
+BasinHopping: step -1, energy     -166.598030, emin     -166.598030, dr        0.300000
+BasinHopping: step -1, energy     -165.217669, emin     -165.217669, dr        0.300000
+mag_mag:  0.139496193127
+mag_mag:  0.0723007148924
+mag_mag:  0.0433304639833
+mag_mag:  0.0393925943098
+mag_mag:  0.0285830339674
+mag_mag:  0.155752822987
+mag_mag:  0.090928792529
+mag_mag:  0.031558807756
+mag_mag:  0.0608022703218
+mag_mag:  0.0414470804658
+mag_mag:  0.0902499939915
+mag_mag:  0.0378488924266
+mag_mag:  0.095333714631
+mag_mag:  0.0525803023976
+mag_mag:  0.0385411980326
+mag_mag:  0.111163050596
+mag_mag:  0.0510406074856
+mag_mag:  0.0743806149505
+mag_mag:  0.049552971964
+mag_mag:  0.0228005807829
+mag_mag:  0.0652085618223
+mag_mag:  0.03025024734
+mag_mag:  0.121391682172
+mag_mag:  0.064672565008
+mag_mag:  0.0677695275032
+mag_mag:  0.0831424766602
+mag_mag:  0.0373941353637
+mag_mag:  0.103801868627
+mag_mag:  0.059366538671
+mag_mag:  0.0462261883773
+mag_mag:  0.129727556172
+mag_mag:  0.0529233871514
+mag_mag:  0.0530770759268
+mag_mag:  0.0505088993591
+mag_mag:  0.0252703369852
+mag_mag:  0.179189683386
+mag_mag:  0.103807420746
+mag_mag:  6.43479726419e-06
+mag_mag:  0.079194071174
+mag_mag:  0.0653216675016
+mag_mag:  0.12127546692
+mag_mag:  0.0462257152046
+mag_mag:  0.0653185774693
+mag_mag:  0.0424990933175
+mag_mag:  3.24069443505e-06
+current bests:
+0 :  -166.675574868  bcm:  [ 1.          0.22414249  0.05934327  0.03303542  0.04927522  0.03498215]
+1 :  -168.926466173  bcm:  [ 1.          0.14842886  0.04396863  0.03989804  0.03063065  0.05841335]
+2 :  -169.492594727  bcm:  [ 1.          0.04697374  0.04425849  0.02379722  0.04506472  0.05466847]
+3 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+4 :  -172.877734749  bcm:  [ 1.          0.10576997  0.05378033  0.04987443  0.03949252  0.05187841]
+Optimizations:  96 Bcms:  33 Best Energy:  -172.877734749
+BasinHopping: step 1, energy     -168.926466, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.377353, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.338645, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.338645, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.338644, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.753521, emin     -165.753521, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -154.822874, emin     -164.509198, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -158.212593, emin     -164.509198, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -158.212593, emin     -164.509198, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -159.391289, emin     -164.509198, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.338645, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.338646, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.338645, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.338646, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.753522, emin     -165.753522, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.326124, emin     -165.510033, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.818898, emin     -168.254609, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.495999, emin     -167.495999, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.600642, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.599916, emin     -165.599916, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.736907, emin     -167.736907, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.366334, emin     -165.366334, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.958451, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.095175, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.580892, emin     -168.303259, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.675575, emin     -168.254608, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.392685, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.392684, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.392685, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.392684, emin     -167.709459, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.969950, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.160129, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.160128, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.802395, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.291034, emin     -167.291034, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -160.940807, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -160.940807, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -160.940807, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -160.940807, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.828775, emin     -168.824113, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -168.990776, emin     -168.990776, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.818058, emin     -167.818058, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -172.877734, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.609781, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.609781, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.609781, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.609781, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.332360, emin     -169.216125, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.332360, emin     -169.216125, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.332360, emin     -169.216125, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.332360, emin     -169.216125, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -169.492595, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598248, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -167.598248, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -167.598248, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -167.598248, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step -1, energy     -162.315746, emin     -162.315746, dr        0.300000
+BasinHopping: step -1, energy     -162.501026, emin     -162.501026, dr        0.300000
+BasinHopping: step -1, energy     -166.512522, emin     -166.512522, dr        0.300000
+BasinHopping: step -1, energy     -166.355550, emin     -166.355550, dr        0.300000
+BasinHopping: step -1, energy     -165.457290, emin     -165.457290, dr        0.300000
+BasinHopping: step -1, energy     -166.752057, emin     -166.752057, dr        0.300000
+mag_mag:  0.0497051301107
+mag_mag:  0.0384420031004
+mag_mag:  0.132623271671
+mag_mag:  0.0698735566922
+mag_mag:  0.0727308590359
+mag_mag:  1.65301122932e-06
+mag_mag:  0.083142034621
+mag_mag:  0.179183949384
+mag_mag:  0.110089920867
+mag_mag:  0.121275062505
+mag_mag:  0.166563625411
+mag_mag:  0.0900019521615
+mag_mag:  0.034889527939
+mag_mag:  0.0715483427648
+mag_mag:  0.0496604813284
+mag_mag:  0.0990710060142
+mag_mag:  0.0217450165644
+mag_mag:  0.0878646257344
+mag_mag:  0.0519802864933
+mag_mag:  0.0397318397042
+mag_mag:  0.121275062505
+mag_mag:  0.0462257152046
+mag_mag:  0.0653185774693
+mag_mag:  0.0424990933175
+mag_mag:  0.0
+mag_mag:  0.0410708290284
+mag_mag:  0.0457260531136
+mag_mag:  0.144451866634
+mag_mag:  0.0802563663265
+mag_mag:  0.0838994627242
+mag_mag:  0.0832066394112
+mag_mag:  0.0452494288155
+mag_mag:  0.0643531609136
+mag_mag:  0.0422908807735
+mag_mag:  0.011879786594
+mag_mag:  0.045723508671
+mag_mag:  3.80464943561e-06
+mag_mag:  0.10380418357
+mag_mag:  0.0593670395684
+mag_mag:  0.0462268509775
+mag_mag:  0.0457253776503
+mag_mag:  4.68157155671e-06
+mag_mag:  0.103804367748
+mag_mag:  0.0593696724361
+mag_mag:  0.0462284889655
+mag_mag:  0.0457250874085
+mag_mag:  3.28188678956e-06
+mag_mag:  0.103803515423
+mag_mag:  0.0593677773085
+mag_mag:  0.046228077604
+mag_mag:  0.0551588768603
+mag_mag:  0.0354726003449
+mag_mag:  0.0985103858786
+mag_mag:  0.0427238604496
+mag_mag:  0.044606968003
+mag_mag:  0.144463272981
+mag_mag:  0.0985219369426
+mag_mag:  1.31857833376e-05
+mag_mag:  0.0792012645039
+mag_mag:  0.0653280426173
+mag_mag:  0.0505094313888
+mag_mag:  0.0196970438386
+mag_mag:  0.0969544395842
+mag_mag:  0.0379099907555
+mag_mag:  0.0446342261035
+mag_mag:  0.0839000969074
+mag_mag:  0.065318880284
+mag_mag:  0.042500060808
+mag_mag:  0.0446354912998
+mag_mag:  2.2430192462e-06
+current bests:
+0 :  -167.736907434  bcm:  [ 1.          0.18911598  0.04884051  0.04752392  0.04461957  0.04584949]
+1 :  -169.492594727  bcm:  [ 1.          0.04697374  0.04425849  0.02379722  0.04506472  0.05466847]
+2 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+3 :  -170.09517466  bcm:  [ 1.          0.14280727  0.05196514  0.02983199  0.05358054  0.047757  ]
+4 :  -172.877734749  bcm:  [ 1.          0.10576997  0.05378033  0.04987443  0.03949252  0.05187841]
+Optimizations:  133 Bcms:  47 Best Energy:  -172.877734749
+BasinHopping: step 1, energy     -163.933933, emin     -163.933933, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.932198, emin     -167.932198, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.016052, emin     -167.016052, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.499876, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.805970, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.713879, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.417522, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.072124, emin     -167.072124, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.738410, emin     -166.752057, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -161.391078, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.391078, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.391078, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.391078, emin     -167.556650, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.391077, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.391077, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.391078, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.391078, emin     -166.598030, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.859187, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.335075, emin     -166.675575, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.214552, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.921584, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.573463, emin     -165.573463, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.486935, emin     -165.599916, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.794409, emin     -165.599916, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.794409, emin     -165.599916, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.214655, emin     -165.753521, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.214655, emin     -165.753521, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.182823, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.366287, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.519458, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.808159, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.620549, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.437974, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.620550, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.620549, emin     -168.254609, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.739748, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.558051, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.538057, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.254143, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.248099, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.248099, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.248099, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.248099, emin     -168.254608, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.155865, emin     -167.291034, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.155865, emin     -167.291034, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.155865, emin     -167.291034, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.155865, emin     -167.291034, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.717264, emin     -167.495999, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.717264, emin     -167.495999, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.717265, emin     -167.495999, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.717264, emin     -167.495999, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.753522, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.753521, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.753522, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.753522, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.810888, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.810888, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.810888, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.810888, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.869183, emin     -167.818058, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.869183, emin     -167.818058, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -166.869184, emin     -167.818058, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -157.028257, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -157.028255, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -157.028255, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -157.028256, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.805860, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.805860, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.805860, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.805859, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.157349, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -157.361755, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -157.361758, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -157.361757, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.815686, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.155601, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.503373, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.815687, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -169.492595, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.394684, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.394683, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -166.394684, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -166.394682, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.443980, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.443980, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -166.443980, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -166.443979, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step -1, energy     -164.039808, emin     -164.039808, dr        0.300000
+BasinHopping: step -1, energy     -167.610726, emin     -167.610726, dr        0.300000
+BasinHopping: step -1, energy     -164.259418, emin     -164.259418, dr        0.300000
+BasinHopping: step -1, energy     -161.095062, emin     -161.095062, dr        0.300000
+BasinHopping: step -1, energy     -162.853551, emin     -162.853551, dr        0.300000
+BasinHopping: step -1, energy     -163.989764, emin     -163.989764, dr        0.300000
+mag_mag:  0.0778911263062
+mag_mag:  0.0718116013045
+mag_mag:  0.0491863351859
+mag_mag:  0.0401172442044
+mag_mag:  0.0175919337985
+mag_mag:  0.144451866634
+mag_mag:  3.67880071754e-14
+mag_mag:  0.0791895626454
+mag_mag:  0.0969544395842
+mag_mag:  0.0653185774693
+current bests:
+0 :  -167.736907434  bcm:  [ 1.          0.18911598  0.04884051  0.04752392  0.04461957  0.04584949]
+1 :  -169.492594727  bcm:  [ 1.          0.04697374  0.04425849  0.02379722  0.04506472  0.05466847]
+2 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+3 :  -170.09517466  bcm:  [ 1.          0.14280727  0.05196514  0.02983199  0.05358054  0.047757  ]
+4 :  -172.877734749  bcm:  [ 1.          0.10576997  0.05378033  0.04987443  0.03949252  0.05187841]
+Optimizations:  193 Bcms:  64 Best Energy:  -172.877734749
+BasinHopping: step 1, energy     -167.736908, emin     -167.736908, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598246, emin     -167.610726, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.417724, emin     -164.259418, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.417723, emin     -164.259418, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.417723, emin     -164.259418, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.417724, emin     -164.259418, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -172.877735, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.530386, emin     -166.530386, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.735535, emin     -165.735535, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.120552, emin     -167.736907, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.248095, emin     -168.254608, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.805860, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.960488, emin     -165.753522, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.983405, emin     -168.990776, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.474453, emin     -164.474453, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.453335, emin     -166.355550, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.759860, emin     -167.495999, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.615546, emin     -165.615546, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.033645, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -157.860396, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -157.860398, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -157.860396, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -157.860396, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.888507, emin     -167.888507, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.777776, emin     -168.303259, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.729752, emin     -166.729752, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.753523, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -157.305742, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.341692, emin     -166.675575, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.394684, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.443979, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.111391, emin     -167.111391, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -160.419037, emin     -167.818058, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -160.419041, emin     -167.818058, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -160.419041, emin     -167.818058, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -160.419041, emin     -167.818058, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.284158, emin     -167.016052, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.056859, emin     -167.016052, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -167.440458, emin     -167.440458, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.418416, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.418417, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -166.418417, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -166.418417, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.898150, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.898150, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.898150, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.898150, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -169.492595, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step -1, energy     -168.553212, emin     -168.553212, dr        0.300000
+BasinHopping: step -1, energy     -168.108152, emin     -168.108152, dr        0.300000
+BasinHopping: step -1, energy     -164.790330, emin     -164.790330, dr        0.300000
+BasinHopping: step -1, energy     -162.415508, emin     -162.415508, dr        0.300000
+BasinHopping: step -1, energy     -169.059832, emin     -169.059832, dr        0.300000
+BasinHopping: step -1, energy     -167.011821, emin     -167.011821, dr        0.300000
+mag_mag:  0.100306500817
+mag_mag:  0.0484978558437
+mag_mag:  0.046554972884
+mag_mag:  0.055903355056
+mag_mag:  0.0207112401159
+mag_mag:  0.048172390153
+mag_mag:  0.108773591348
+mag_mag:  0.056630811306
+mag_mag:  0.0408115376566
+mag_mag:  0.0487696569217
+mag_mag:  0.0571280117365
+mag_mag:  0.10226886155
+mag_mag:  0.0577790535964
+mag_mag:  0.0296802186734
+mag_mag:  0.0495560762854
+mag_mag:  1.09056652586e-05
+mag_mag:  0.144455680718
+mag_mag:  0.0802603140812
+mag_mag:  0.0505111722171
+mag_mag:  0.0839043218109
+mag_mag:  0.0479002086604
+mag_mag:  0.0986667412275
+mag_mag:  0.0503437008858
+mag_mag:  0.0240725395638
+mag_mag:  0.0406406683082
+mag_mag:  0.144464620938
+mag_mag:  1.05172058802e-05
+mag_mag:  0.0791974818718
+mag_mag:  0.0969636795507
+mag_mag:  0.0653258904941
+mag_mag:  0.0605139203907
+mag_mag:  0.0857783990776
+mag_mag:  0.0408352483732
+mag_mag:  0.0219224165914
+mag_mag:  0.0351092311324
+mag_mag:  0.0839035274289
+mag_mag:  0.0653262305103
+mag_mag:  0.04249700892
+mag_mag:  0.0446327515515
+mag_mag:  2.69970373701e-06
+current bests:
+0 :  -167.736907816  bcm:  [ 1.          0.1891209   0.04884141  0.04752002  0.04462577  0.04585584]
+1 :  -169.492594793  bcm:  [ 1.          0.04696422  0.04426113  0.0237986   0.04506185  0.05466674]
+2 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+3 :  -170.09517466  bcm:  [ 1.          0.14280727  0.05196514  0.02983199  0.05358054  0.047757  ]
+4 :  -172.877734749  bcm:  [ 1.          0.10576997  0.05378033  0.04987443  0.03949252  0.05187841]
+Optimizations:  244 Bcms:  83 Best Energy:  -172.877734749
+BasinHopping: step 1, energy     -165.753522, emin     -168.553212, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.377354, emin     -168.553212, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.753522, emin     -168.553212, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.377354, emin     -168.553212, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.735535, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -167.072124, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.735535, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.735535, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.402468, emin     -164.790330, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.402468, emin     -164.790330, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.402469, emin     -164.790330, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.402468, emin     -164.790330, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.753522, emin     -165.753522, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -169.059832, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.753521, emin     -167.011821, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.753523, emin     -167.011821, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.753522, emin     -167.011821, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.753520, emin     -167.011821, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -157.544617, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -157.544617, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -157.544617, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -157.544615, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.933933, emin     -168.990776, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.463862, emin     -167.736907, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -154.612216, emin     -164.474453, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.847551, emin     -164.847551, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.199405, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.647861, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.288285, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.889504, emin     -166.355550, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.947194, emin     -165.615546, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.947194, emin     -165.615546, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.947195, emin     -165.615546, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.369678, emin     -165.615546, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -154.468676, emin     -165.735535, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -154.468676, emin     -165.735535, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -154.468675, emin     -165.735535, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -154.468675, emin     -165.735535, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -168.926466, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -161.391077, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.391078, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.391078, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.391078, emin     -168.303259, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.898150, emin     -167.932198, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.792965, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.959156, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.819792, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.792964, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.736907, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.959327, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.418416, emin     -167.072124, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.732293, emin     -166.530386, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.418543, emin     -166.530386, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.418544, emin     -166.530386, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.732292, emin     -166.530386, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.570289, emin     -166.729752, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.275098, emin     -166.729752, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.570291, emin     -166.729752, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -167.644858, emin     -167.644858, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.584925, emin     -167.111391, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.584926, emin     -167.111391, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.584925, emin     -167.111391, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.584924, emin     -167.111391, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.911138, emin     -167.911138, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -159.880769, emin     -167.610726, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -159.880769, emin     -167.610726, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -159.880769, emin     -167.610726, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -159.880769, emin     -167.610726, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.018820, emin     -167.736908, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.018820, emin     -167.736908, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.018820, emin     -167.736908, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.018820, emin     -167.736908, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.879617, emin     -167.888507, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.879617, emin     -167.888507, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -167.751057, emin     -167.888507, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -167.751057, emin     -167.888507, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -169.492595, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.467191, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.516014, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.598963, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -167.559144, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -162.900554, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.900554, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.900554, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.900554, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step -1, energy     -164.886845, emin     -164.886845, dr        0.300000
+BasinHopping: step -1, energy     -166.606131, emin     -166.606131, dr        0.300000
+BasinHopping: step -1, energy     -164.908585, emin     -164.908585, dr        0.300000
+BasinHopping: step -1, energy     -163.747903, emin     -163.747903, dr        0.300000
+BasinHopping: step -1, energy     -168.224496, emin     -168.224496, dr        0.300000
+BasinHopping: step -1, energy     -167.497373, emin     -167.497373, dr        0.300000
+mag_mag:  0.0695013843955
+mag_mag:  0.0771883539083
+mag_mag:  0.0401440700506
+mag_mag:  0.0322604237877
+mag_mag:  0.020170640385
+mag_mag:  0.0726724673312
+mag_mag:  0.0759651442162
+mag_mag:  0.0415345067277
+mag_mag:  0.0314301142565
+mag_mag:  0.0188315821126
+mag_mag:  0.0562623215687
+mag_mag:  0.09562623504
+mag_mag:  0.0475624622308
+mag_mag:  0.0283876275283
+mag_mag:  0.0473009861056
+mag_mag:  0.045731002335
+mag_mag:  0.103809273332
+mag_mag:  0.0593653256297
+mag_mag:  0.0289323319155
+mag_mag:  0.0462240770296
+mag_mag:  0.0457280462752
+mag_mag:  0.103812638597
+mag_mag:  0.0593669922565
+mag_mag:  0.028933318399
+mag_mag:  0.046227650135
+mag_mag:  0.0457285733642
+mag_mag:  0.103812772971
+mag_mag:  0.0593682641839
+mag_mag:  0.0289341576383
+mag_mag:  0.0462282687455
+mag_mag:  0.181268463454
+mag_mag:  0.28499422784
+mag_mag:  0.23193683363
+mag_mag:  0.209105480834
+mag_mag:  0.229207597925
+current bests:
+0 :  -169.492594793  bcm:  [ 1.          0.27569968  0.1735297   0.10828768  0.09130796  0.10865125]
+1 :  -169.492594793  bcm:  [ 1.          0.04696422  0.04426113  0.0237986   0.04506185  0.05466674]
+2 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+3 :  -170.09517466  bcm:  [ 1.          0.14280727  0.05196514  0.02983199  0.05358054  0.047757  ]
+4 :  -172.877734749  bcm:  [ 1.          0.10576997  0.05378033  0.04987443  0.03949252  0.05187841]
+Optimizations:  302 Bcms:  102 Best Energy:  -172.877734749
+BasinHopping: step 1, energy     -165.753522, emin     -165.753522, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.441549, emin     -164.908585, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -169.189799, emin     -169.189799, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.153014, emin     -165.153014, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.586526, emin     -168.586526, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.095175, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.893641, emin     -164.790330, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.086980, emin     -166.355550, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.744191, emin     -172.877735, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.721160, emin     -168.990776, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.584925, emin     -167.111391, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.994138, emin     -166.530386, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -155.092826, emin     -166.530386, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.667738, emin     -166.530386, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.959150, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.959148, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.959154, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.959156, emin     -166.675575, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -160.458739, emin     -164.847551, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -160.458739, emin     -164.847551, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -160.458739, emin     -164.847551, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -160.458739, emin     -164.847551, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.753521, emin     -168.553212, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.816743, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.816743, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.816743, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.816743, emin     -167.736907, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.838664, emin     -168.108152, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.753520, emin     -167.011821, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.499674, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.499674, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.499674, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.499673, emin     -165.753522, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.388013, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.138681, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.388013, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.132707, emin     -167.932198, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.696123, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.712283, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.696124, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.696124, emin     -167.072124, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.847717, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -168.282160, emin     -172.877734, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.914755, emin     -167.914755, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.059511, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.059511, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.059511, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.059511, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -167.914599, emin     -167.914599, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.544256, emin     -167.911138, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -167.544256, emin     -167.911138, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.327095, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -162.327097, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -162.047571, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.047571, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -166.016329, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.993229, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -166.255555, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -167.241784, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.497234, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -166.057842, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -166.057841, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.538022, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -169.492595, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step -1, energy     -165.180313, emin     -165.180313, dr        0.300000
+BasinHopping: step -1, energy     -163.673675, emin     -163.673675, dr        0.300000
+BasinHopping: step -1, energy     -160.394840, emin     -160.394840, dr        0.300000
+BasinHopping: step -1, energy     -167.629941, emin     -167.629941, dr        0.300000
+BasinHopping: step -1, energy     -167.155677, emin     -167.155677, dr        0.300000
+BasinHopping: step -1, energy     -161.279481, emin     -161.279481, dr        0.300000
+mag_mag:  0.209107005249
+mag_mag:  0.0969632542586
+mag_mag:  0.0379080194483
+mag_mag:  3.10008601663e-06
+mag_mag:  0.0446337295933
+current bests:
+0 :  -169.492594793  bcm:  [ 1.          0.27569968  0.1735297   0.10828768  0.09130796  0.10865125]
+1 :  -169.492594793  bcm:  [ 1.          0.04696422  0.04426113  0.0237986   0.04506185  0.05466674]
+2 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+3 :  -170.09517466  bcm:  [ 1.          0.14280727  0.05196514  0.02983199  0.05358054  0.047757  ]
+4 :  -172.877734749  bcm:  [ 1.          0.10576997  0.05378033  0.04987443  0.03949252  0.05187841]
+Optimizations:  377 Bcms:  126 Best Energy:  -172.877734749
+BasinHopping: step 1, energy     -167.598246, emin     -167.598246, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -162.453208, emin     -162.453208, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.753522, emin     -167.629941, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.753522, emin     -167.629941, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -167.598248, emin     -167.629941, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -168.926466, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.095174, emin     -170.095174, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.088138, emin     -170.088138, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.095175, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.335075, emin     -167.072124, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.059511, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.981206, emin     -167.932198, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.690436, emin     -165.153014, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.690436, emin     -165.153014, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.306494, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.445013, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.306492, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -162.789664, emin     -169.059832, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -168.926465, emin     -168.926465, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -164.735715, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.735716, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.735716, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.735715, emin     -172.877735, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -168.926466, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.095175, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.013182, emin     -166.013182, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.252767, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.919057, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.501029, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.785894, emin     -168.990776, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.949987, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.949988, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.949988, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -160.154233, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -163.483335, emin     -167.911138, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.483336, emin     -167.911138, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.483335, emin     -167.911138, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.483336, emin     -167.911138, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.324211, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.324212, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.324212, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.324212, emin     -168.108152, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -164.964517, emin     -167.914599, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.964516, emin     -167.914599, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.964516, emin     -167.914599, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.964517, emin     -167.914599, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -165.063926, emin     -167.914755, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.063926, emin     -167.914755, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.063927, emin     -167.914755, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.063923, emin     -167.914755, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -161.391077, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -161.391078, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -161.391079, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -161.391079, emin     -172.877734, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -168.094157, emin     -168.586526, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -168.094157, emin     -168.586526, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -157.285950, emin     -168.926466, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -168.438911, emin     -168.926466, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.605307, emin     -169.189799, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -163.605307, emin     -169.189799, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -163.605307, emin     -169.189799, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -163.605307, emin     -169.189799, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -169.492595, emin     -169.492595, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -160.481124, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -160.481124, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -160.481125, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -160.481125, emin     -170.095175, dr        0.300000
+Accept:  False
+BasinHopping: step -1, energy     -166.279785, emin     -166.279785, dr        0.300000
+BasinHopping: step -1, energy     -162.469126, emin     -162.469126, dr        0.300000
+BasinHopping: step -1, energy     -168.015620, emin     -168.015620, dr        0.300000
+BasinHopping: step -1, energy     -163.462777, emin     -163.462777, dr        0.300000
+BasinHopping: step -1, energy     -166.249145, emin     -166.249145, dr        0.300000
+BasinHopping: step -1, energy     -165.999161, emin     -165.999161, dr        0.300000
+mag_mag:  0.252119143754
+mag_mag:  0.0592877156082
+mag_mag:  0.0543775711334
+mag_mag:  0.055701183636
+mag_mag:  0.0306138154268
+mag_mag:  0.209106083089
+mag_mag:  0.0969632986283
+mag_mag:  0.0379076282279
+mag_mag:  4.36427271071e-06
+mag_mag:  0.0446328802044
+mag_mag:  0.209105481753
+mag_mag:  0.0969634660538
+mag_mag:  0.0379095717678
+mag_mag:  2.88709238034e-06
+mag_mag:  0.0446333327496
+mag_mag:  0.209108803257
+mag_mag:  0.0969607310169
+mag_mag:  0.0379074826643
+mag_mag:  3.54280734965e-06
+mag_mag:  0.0446321184101
+current bests:
+0 :  -169.492594793  bcm:  [ 1.          0.27569968  0.1735297   0.10828768  0.09130796  0.10865125]
+1 :  -169.492594793  bcm:  [ 1.          0.04696422  0.04426113  0.0237986   0.04506185  0.05466674]
+2 :  -169.697604849  bcm:  [ 1.          0.1160186   0.05172253  0.03374392  0.06491262  0.02376207]
+3 :  -170.095174902  bcm:  [ 1.          0.14280441  0.05196329  0.02983162  0.05358035  0.0477561 ]
+4 :  -172.877734749  bcm:  [ 1.          0.10576997  0.05378033  0.04987443  0.03949252  0.05187841]
+Optimizations:  445 Bcms:  147 Best Energy:  -172.877734749
+BasinHopping: step 1, energy     -164.338646, emin     -166.279785, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -164.338646, emin     -166.279785, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -164.338645, emin     -166.279785, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -164.338645, emin     -166.279785, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -168.926465, emin     -168.926465, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -165.753522, emin     -168.015620, dr        0.300000
+Accept:  False
+BasinHopping: step 2, energy     -165.753523, emin     -168.015620, dr        0.300000
+Accept:  False
+BasinHopping: step 3, energy     -165.753522, emin     -168.015620, dr        0.300000
+Accept:  False
+BasinHopping: step 4, energy     -165.753522, emin     -168.015620, dr        0.300000
+Accept:  False
+BasinHopping: step 1, energy     -170.095175, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -167.598248, emin     -167.598248, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -170.095175, emin     -170.095175, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -163.605307, emin     -169.189799, dr        0.300000
+Accept:  True
+BasinHopping: step 1, energy     -166.590758, emin     -168.108152, dr        0.300000
+Accept:  True
+Traceback (most recent call last):
+  File "pso.py", line 195, in <module>
+    lopts,lbcms = run(opt_limit)
+  File "pso.py", line 163, in run
+    i.run(1,bests)
+  File "/home/bmr2368/projects/research/firefly_38/basin.py", line 99, in run
+    En,rn,velocity = self.move(ro, bests)
+  File "/home/bmr2368/projects/research/firefly_38/basin.py", line 192, in move
+    E = np.random.normal(1,.01*min(15,sort_attract[-2]/max(0.0001,sort_attract[-1])), size=(len(atoms),3))
+  File "mtrand.pyx", line 1301, in mtrand.RandomState.normal (numpy/random/mtrand/mtrand.c:7182)
+ValueError: scale <= 0

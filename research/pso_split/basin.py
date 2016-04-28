@@ -41,7 +41,8 @@ class BasinHopping(Dynamics):
                  adjust_fraction = 0.05,
                  pushapart = 0.4,
                  jumpmax=2,
-                 inertia_weight=.4
+                 inertia_weight=.4,
+                 method='PSO'
                  ):
         Dynamics.__init__(self, atoms, logfile, trajectory)
         self.local_optimizations = 0
@@ -50,6 +51,7 @@ class BasinHopping(Dynamics):
         self.optimizer = optimizer
         self.fmax = fmax
         self.dr = dr
+        self.method = method
 
         self.cm = atoms.get_center_of_mass()
 
@@ -147,10 +149,29 @@ class BasinHopping(Dynamics):
         atoms = self.atoms
         velocity = copy.deepcopy(self.velocity)
 
+        do_pso = True
+        if self.method == 'PSO_split':
+            best_to_use = bests[-1]
+            best_dist = 1e32
+            for i in bests:
+                d = i.get_bcm() - self.get_bcm()
+                di = np.sqrt(np.vdot(d,d))
+                if(di<best_dist):
+                    best_to_use = i
+                    best_dist = di
+
+            do_pso = True
+        else:
+            do_pso = True
+            best_to_use = bests[-1]
+        print "using best: ", best_to_use.get_bcm()
         # PSO heuristic
-        for i in range(len(ro)):
-            for j in range(3):
-                velocity[i][j] = self.inertia_weight*velocity[i][j] + random.uniform(0,2)*(self.rmin[i][j]-ro[i][j]) + random.uniform(0,2)*(bests[-1].positions[i][j]-ro[i][j])
+        if (not do_pso):
+            print 'firefly'
+        else:
+            for i in range(len(ro)):
+                for j in range(3):
+                    velocity[i][j] = self.inertia_weight*velocity[i][j] + random.uniform(0,2)*(self.rmin[i][j]-ro[i][j]) + random.uniform(0,2)*(best_to_use.positions[i][j]-ro[i][j])
 
         rn = ro + velocity
         rn = self.push_apart(rn)

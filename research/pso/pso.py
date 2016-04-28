@@ -37,6 +37,7 @@ def get_basin_hop(p,energy_goal):
                          fmax = 0.01,
                          dr = displacement,
                          minenergy = energy_goal,
+                         method = 'PSO',
                          optimizer_logfile = None # uncomment this line if you do not want the information from each optimization to print 
 
                          )
