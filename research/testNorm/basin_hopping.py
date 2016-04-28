@@ -21,7 +21,8 @@ def basin_hop(p):
                          fmax = 0.01,
                          dr = displacement,
                          adjust_cm = True,
-                         minenergy = -108.315,
+                         #minenergy = -108.315,
+                         minenergy = -279.247,
                          #minenergy = -1,
                          distribution = 'uniform',
                          optimizer_logfile = None # uncomment this line if you do not want the information from each optimization to print 
@@ -46,6 +47,9 @@ def basin_hop(p):
 tcalls=0
 for i in range(1): 
     p = tsase.io.read_con('cluster_38.con')
+    t = p[0:17]
+    t.translate([.1,.1,.1])
+    p = p + (t)
 
     lj = tsase.calculators.lj(cutoff=35.0)
     p.center(100.0)

@@ -185,11 +185,12 @@ class BasinHopping(Dynamics):
             for i in range(len(bests)):
                     numer = bests[i].get_energy() * r_arr[i]
                     numer *= numer
-                    attract_arr[i] = math.e**(-1*numer/denom)
+                    attract_arr[i] = max(1e-25,math.e**(-1*numer/denom))
             sort_attract = sorted(attract_arr)
 
+            print "sorted: ", sort_attract
             velocity = self.inertia_weight*velocity
-            E = np.random.normal(1,.01*min(15,sort_attract[-2]/max(0.0001,sort_attract[-1])), size=(len(atoms),3))
+            E = np.random.normal(1,max(.01,.01*min(25,sort_attract[-1]/sort_attract[-2])), size=(len(atoms),3))
             for i in range(len(bests)):
                     velocity += attract_arr[i]*(bests[i].positions-ro)*E/sort_attract[-1]
         else:

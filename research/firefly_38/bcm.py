@@ -22,7 +22,8 @@ class BCM():
             while b<len(positions):
             #for b in range(len(positions)):
                 dist =  cls.mag(positions[a]-positions[b])
-                if dist<1.35 and a!=b:
+                #if dist<1.35 and a!=b:
+                if dist<1.2 and a!=b:
 #            	print positions[a]
 #            	print positions[b]
 #            	print cm
@@ -39,7 +40,7 @@ class BCM():
                 b += 1
         #print "sum: ", sum
         #print "bonds: ",bonds
-        return sum / bonds
+        return sum / max(1,bonds)
 
     @classmethod
     def q_norm(cls,l,positions,cm):
