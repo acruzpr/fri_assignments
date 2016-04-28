@@ -40,8 +40,8 @@ class BasinHopping(Dynamics):
                  target_ratio = 0.5,
                  adjust_fraction = 0.05,
                  pushapart = 0.4,
-                 jumpmax=None,
-                 inertia_weight=.5
+                 jumpmax=2,
+                 inertia_weight=.4
                  ):
         Dynamics.__init__(self, atoms, logfile, trajectory)
         self.local_optimizations = 0
@@ -55,8 +55,6 @@ class BasinHopping(Dynamics):
 
         self.optimizer_logfile = optimizer_logfile
         self.lm_trajectory = local_minima_trajectory
-        if isinstance(local_minima_trajectory, str):
-            tsase.io.write_con(self.lm_trajectory,atoms,w='a')
         self.minenergy = minenergy
         self.energy = 0
         self.adjust_step = adjust_step_size
@@ -81,7 +79,8 @@ class BasinHopping(Dynamics):
         self.bcm_calculator = BCM
         self.bcm_changed = True
         self.log(-1, self.Emin, self.Emin,self.dr)
-
+        if isinstance(self.lm_trajectory, str):
+            tsase.io.write_con(self.lm_trajectory,self.atoms,w='a')
     def run(self, steps, bests):
         """Hop the basins for defined number of steps."""
         self.steps = 0
@@ -89,28 +88,29 @@ class BasinHopping(Dynamics):
         Eo = self.get_energy(ro)
         acceptnum = 0
         rejectnum = 0
-        for step in range(steps):
+        #for step in range(steps):
+        while acceptnum is 0:
             En = None
             self.steps += 1
             while En is None:
-                rn = self.move(ro, bests)
-                En = self.get_energy(rn)
+                En,rn,velocity = self.move(ro, bests)
             if En < self.Emin:
                 self.Emin = En
                 self.rmin = self.atoms.get_positions()
                 self.call_observers()
-            self.log(step, En, self.Emin,self.dr)
+            self.log(self.steps, En, self.Emin,self.dr)
             if Eo >= En:
                 accept = True
             else:
                 accept = np.exp((Eo - En) / self.kT) > np.random.uniform()
             if rejectnum > self.jumpmax:
-                accept = True
-                rejectnum = 0
+                acceptnum = 1
+            print 'Accept: ', accept
             if accept:
                 acceptnum += 1.
                 rejectnum = 0
                 ro = rn.copy()
+                self.velocity = velocity
                 Eo = En
                 self.bcm_changed = True
                 if self.lm_trajectory is not None:
@@ -145,18 +145,27 @@ class BasinHopping(Dynamics):
     def move(self, ro, bests):
         """Move atoms by a random step."""
         atoms = self.atoms
-        velocity = self.velocity
+        velocity = copy.deepcopy(self.velocity)
 
+        best_to_use = bests[-1]
+        best_dist = 1e32
+        for i in bests:
+            d = i.get_bcm() - self.get_bcm()
+            di = np.sqrt(np.vdot(d,d))
+            if(di<best_dist):
+                best_to_use = i
+                best_dist = di
+
+        print "using best: ", best_to_use.get_bcm()
         # PSO heuristic
         for i in range(len(ro)):
             for j in range(3):
-                velocity[i][j] = self.inertia_weight*velocity[i][j] + random.uniform(0,2)*(self.rmin[i][j]-ro[i][j]) + random.uniform(0,2)*(bests[-1].positions[i][j]-ro[i][j])
+                velocity[i][j] = self.inertia_weight*velocity[i][j] + random.uniform(0,2)*(self.rmin[i][j]-ro[i][j]) + random.uniform(0,2)*(best_to_use.positions[i][j]-ro[i][j])
 
-        self.velocity = velocity
-        rn = ro + self.velocity
+        rn = ro + velocity
         rn = self.push_apart(rn)
         atoms.set_positions(rn)
-
+        En = self.get_energy(rn)
         cm = atoms.get_center_of_mass()
         atoms.translate(self.cm - cm)
 
@@ -164,7 +173,7 @@ class BasinHopping(Dynamics):
         world.broadcast(rn, 0)
 
         atoms.set_positions(rn)
-        return atoms.get_positions()
+        return En,atoms.get_positions(),velocity
 
     def get_minimum(self):
         """Return minimal energy and configuration."""

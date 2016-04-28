@@ -1,0 +1,1029 @@
+start
+BasinHopping: step -1, energy     -161.301883, emin     -161.301883, dr        0.300000
+BasinHopping: step -1, energy     -151.726461, emin     -151.726461, dr        0.300000
+BasinHopping: step -1, energy     -161.190367, emin     -161.190367, dr        0.300000
+BasinHopping: step -1, energy     -151.579741, emin     -151.579741, dr        0.300000
+BasinHopping: step -1, energy     -160.521195, emin     -160.521195, dr        0.300000
+BasinHopping: step -1, energy     -148.501551, emin     -148.501551, dr        0.300000
+BasinHopping: step -1, energy     -159.191658, emin     -159.191658, dr        0.300000
+BasinHopping: step -1, energy     -152.023964, emin     -152.023964, dr        0.300000
+BasinHopping: step -1, energy     -162.511352, emin     -162.511352, dr        0.300000
+BasinHopping: step -1, energy     -167.328668, emin     -167.328668, dr        0.300000
+mag_mag:  1.03568723303
+mag_mag:  1.03568723303
+mag_mag:  1.03568723303
+mag_mag:  1.04810002343
+mag_mag:  1.04810002343
+mag_mag:  0.0502416025963
+mag_mag:  1.04620697201
+mag_mag:  1.04620697201
+mag_mag:  0.0425751309764
+mag_mag:  1.06936179496
+mag_mag:  1.06936179496
+mag_mag:  0.114732117297
+mag_mag:  1.03966565004
+mag_mag:  0.11503051525
+mag_mag:  0.0419572608822
+mag_mag:  1.09904746656
+mag_mag:  0.0835683136879
+mag_mag:  0.192468956263
+mag_mag:  1.03465417199
+mag_mag:  0.117760280828
+mag_mag:  0.0238163544302
+mag_mag:  1.08292181451
+mag_mag:  0.0467645568146
+mag_mag:  0.147976956755
+mag_mag:  1.03869957262
+mag_mag:  0.0233801923783
+mag_mag:  0.137119176963
+mag_mag:  1.01536069577
+mag_mag:  0.2472678683
+mag_mag:  0.114595936067
+current bests:
+0 :  -152.023963793  bcm:  [ 1.          0.37237907  0.14071763  0.07961067  0.0644886   0.06128125]
+1 :  -162.511351771  bcm:  [ 1.          0.25472243  0.08318597  0.04523187  0.04349545  0.05617478]
+2 :  -167.328668492  bcm:  [ 1.          0.14297543  0.06030309  0.03710035  0.05064896  0.0541955 ]
+BasinHopping: step 0, energy     -167.575063, emin     -167.575063, dr        0.300000
+BasinHopping: step 0, energy     -167.113224, emin     -167.113224, dr        0.300000
+BasinHopping: step 0, energy     -168.182958, emin     -168.182958, dr        0.300000
+BasinHopping: step 0, energy     -163.566083, emin     -163.566083, dr        0.300000
+BasinHopping: step 0, energy     -166.668226, emin     -166.668226, dr        0.300000
+BasinHopping: step 0, energy     -164.000736, emin     -164.000736, dr        0.300000
+BasinHopping: step 0, energy     -160.386555, emin     -160.386555, dr        0.300000
+BasinHopping: step 0, energy     -165.008717, emin     -165.008717, dr        0.300000
+BasinHopping: step 0, energy     -167.613668, emin     -167.613668, dr        0.300000
+BasinHopping: step 0, energy     -167.328668, emin     -167.328668, dr        0.300000
+mag_mag:  0.306030319097
+mag_mag:  0.173071366842
+mag_mag:  0.0605913199691
+mag_mag:  0.299588856429
+mag_mag:  0.17008661131
+mag_mag:  0.0407784760742
+mag_mag:  0.287702172552
+mag_mag:  0.15476794987
+mag_mag:  0.0256923627877
+mag_mag:  0.292626637496
+mag_mag:  0.162665830158
+mag_mag:  0.0307248595262
+mag_mag:  0.280438294093
+mag_mag:  0.151476689975
+mag_mag:  0.0389716508809
+mag_mag:  0.187867788144
+mag_mag:  0.058084808049
+mag_mag:  0.101089824839
+mag_mag:  0.260879616702
+mag_mag:  0.0334181839619
+mag_mag:  0.0743170876933
+mag_mag:  0.303005155492
+mag_mag:  0.0397878204795
+mag_mag:  0.118871188401
+mag_mag:  0.22268954456
+mag_mag:  0.075123138298
+mag_mag:  0.0473321108645
+mag_mag:  0.2472678683
+mag_mag:  0.0407312294932
+mag_mag:  0.0613382126535
+current bests:
+0 :  -152.023963793  bcm:  [ 1.          0.37237907  0.14071763  0.07961067  0.0644886   0.06128125]
+1 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -153.573685, emin     -153.573685, dr        0.300000
+BasinHopping: step -1, energy     -155.598219, emin     -155.598219, dr        0.300000
+Optimizations:  4
+BasinHopping: step 0, energy     -153.784344, emin     -153.784344, dr        0.300000
+BasinHopping: step 0, energy     -165.310407, emin     -165.310407, dr        0.300000
+BasinHopping: step 0, energy     -159.908222, emin     -164.000736, dr        0.300000
+BasinHopping: step 0, energy     -167.005418, emin     -167.005418, dr        0.300000
+BasinHopping: step 0, energy     -155.645645, emin     -166.668226, dr        0.300000
+BasinHopping: step 0, energy     -154.416748, emin     -167.113224, dr        0.300000
+BasinHopping: step 0, energy     -159.865868, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -163.533257, emin     -167.575063, dr        0.300000
+BasinHopping: step 0, energy     -162.468235, emin     -167.613668, dr        0.300000
+BasinHopping: step 0, energy     -157.316387, emin     -168.182958, dr        0.300000
+mag_mag:  0.15509764639
+mag_mag:  0.137356654278
+mag_mag:  0.0408715613576
+mag_mag:  0.279294178436
+mag_mag:  0.0283262432774
+mag_mag:  0.0932554333177
+mag_mag:  0.0947670744918
+mag_mag:  0.210533548144
+mag_mag:  0.117267521198
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -152.436529, emin     -152.436529, dr        0.300000
+BasinHopping: step -1, energy     -156.860471, emin     -156.860471, dr        0.300000
+Optimizations:  9
+BasinHopping: step 0, energy     -145.608267, emin     -152.436529, dr        0.300000
+BasinHopping: step 0, energy     -162.768001, emin     -162.768001, dr        0.300000
+BasinHopping: step 0, energy     -160.404473, emin     -166.668226, dr        0.300000
+BasinHopping: step 0, energy     -158.498821, emin     -168.182958, dr        0.300000
+BasinHopping: step 0, energy     -166.279333, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -163.470733, emin     -164.000736, dr        0.300000
+BasinHopping: step 0, energy     -160.688759, emin     -167.613668, dr        0.300000
+BasinHopping: step 0, energy     -165.941813, emin     -167.575063, dr        0.300000
+BasinHopping: step 0, energy     -164.063941, emin     -165.310407, dr        0.300000
+BasinHopping: step 0, energy     -147.691578, emin     -167.005418, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -165.463524, emin     -165.463524, dr        0.300000
+BasinHopping: step -1, energy     -153.573685, emin     -153.573685, dr        0.300000
+Optimizations:  15
+BasinHopping: step 0, energy     -149.903406, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -154.671034, emin     -154.671034, dr        0.300000
+BasinHopping: step 0, energy     -155.007680, emin     -168.182958, dr        0.300000
+BasinHopping: step 0, energy     -159.122586, emin     -166.668226, dr        0.300000
+BasinHopping: step 0, energy     -152.551806, emin     -167.613668, dr        0.300000
+BasinHopping: step 0, energy     -158.780441, emin     -162.768001, dr        0.300000
+BasinHopping: step 0, energy     -165.459922, emin     -165.459922, dr        0.300000
+BasinHopping: step 0, energy     -161.602122, emin     -165.310407, dr        0.300000
+BasinHopping: step 0, energy     -154.090810, emin     -167.575063, dr        0.300000
+BasinHopping: step 0, energy     -166.852490, emin     -167.328668, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -142.707833, emin     -142.707833, dr        0.300000
+BasinHopping: step -1, energy     -164.738628, emin     -164.738628, dr        0.300000
+Optimizations:  22
+BasinHopping: step 0, energy     -159.673252, emin     -159.673252, dr        0.300000
+BasinHopping: step 0, energy     -167.074068, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -146.640327, emin     -167.575063, dr        0.300000
+BasinHopping: step 0, energy     -145.580325, emin     -154.671034, dr        0.300000
+BasinHopping: step 0, energy     -153.292460, emin     -168.182958, dr        0.300000
+BasinHopping: step 0, energy     -166.716799, emin     -166.716799, dr        0.300000
+BasinHopping: step 0, energy     -148.956776, emin     -166.668226, dr        0.300000
+BasinHopping: step 0, energy     -162.605093, emin     -165.310407, dr        0.300000
+BasinHopping: step 0, energy     -162.082826, emin     -165.459922, dr        0.300000
+BasinHopping: step 0, energy     -148.331692, emin     -167.328668, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -153.660596, emin     -153.660596, dr        0.300000
+BasinHopping: step -1, energy     -158.928906, emin     -158.928906, dr        0.300000
+Optimizations:  31
+BasinHopping: step 0, energy     -163.282773, emin     -163.282773, dr        0.300000
+BasinHopping: step 0, energy     -161.307144, emin     -161.307144, dr        0.300000
+BasinHopping: step 0, energy     -158.139768, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -163.408621, emin     -166.668226, dr        0.300000
+BasinHopping: step 0, energy     -146.637322, emin     -168.182958, dr        0.300000
+BasinHopping: step 0, energy     -157.799881, emin     -159.673252, dr        0.300000
+BasinHopping: step 0, energy     -159.995118, emin     -165.459922, dr        0.300000
+BasinHopping: step 0, energy     -156.690047, emin     -165.310407, dr        0.300000
+BasinHopping: step 0, energy     -166.617917, emin     -166.716799, dr        0.300000
+BasinHopping: step 0, energy     -157.040179, emin     -167.074068, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -165.066175, emin     -165.066175, dr        0.300000
+BasinHopping: step -1, energy     -159.355845, emin     -159.355845, dr        0.300000
+Optimizations:  44
+BasinHopping: step 0, energy     -151.481961, emin     -165.066175, dr        0.300000
+BasinHopping: step 0, energy     -160.642037, emin     -160.642037, dr        0.300000
+BasinHopping: step 0, energy     -162.170054, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -156.318472, emin     -159.673252, dr        0.300000
+BasinHopping: step 0, energy     -155.450719, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -156.905103, emin     -165.459922, dr        0.300000
+BasinHopping: step 0, energy     -154.458962, emin     -161.307144, dr        0.300000
+BasinHopping: step 0, energy     -153.833857, emin     -163.282773, dr        0.300000
+BasinHopping: step 0, energy     -150.184012, emin     -166.668226, dr        0.300000
+BasinHopping: step 0, energy     -162.896365, emin     -166.716799, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -157.898441, emin     -157.898441, dr        0.300000
+BasinHopping: step -1, energy     -157.249508, emin     -157.249508, dr        0.300000
+Optimizations:  54
+BasinHopping: step 0, energy     -152.435278, emin     -157.898441, dr        0.300000
+BasinHopping: step 0, energy     -152.168955, emin     -157.249508, dr        0.300000
+BasinHopping: step 0, energy     -163.533302, emin     -163.533302, dr        0.300000
+BasinHopping: step 0, energy     -158.768625, emin     -161.307144, dr        0.300000
+BasinHopping: step 0, energy     -157.254101, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -154.569422, emin     -159.673252, dr        0.300000
+BasinHopping: step 0, energy     -150.845553, emin     -165.459922, dr        0.300000
+BasinHopping: step 0, energy     -162.480095, emin     -162.480095, dr        0.300000
+BasinHopping: step 0, energy     -162.127385, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -158.871794, emin     -166.716799, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -160.521195, emin     -160.521195, dr        0.300000
+BasinHopping: step -1, energy     -146.699349, emin     -146.699349, dr        0.300000
+Optimizations:  65
+BasinHopping: step 0, energy     -145.726262, emin     -160.521195, dr        0.300000
+BasinHopping: step 0, energy     -158.318396, emin     -158.318396, dr        0.300000
+BasinHopping: step 0, energy     -156.281188, emin     -157.898441, dr        0.300000
+BasinHopping: step 0, energy     -144.801699, emin     -159.673252, dr        0.300000
+BasinHopping: step 0, energy     -147.559183, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -154.728957, emin     -161.307144, dr        0.300000
+BasinHopping: step 0, energy     -164.628208, emin     -166.716799, dr        0.300000
+BasinHopping: step 0, energy     -163.101119, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -157.868775, emin     -162.480095, dr        0.300000
+BasinHopping: step 0, energy     -167.898529, emin     -167.898529, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -160.521195, emin     -160.521195, dr        0.300000
+BasinHopping: step -1, energy     -165.463524, emin     -165.463524, dr        0.300000
+Optimizations:  73
+BasinHopping: step 0, energy     -154.131504, emin     -160.521195, dr        0.300000
+BasinHopping: step 0, energy     -161.768278, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -154.888771, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -144.421851, emin     -161.307144, dr        0.300000
+BasinHopping: step 0, energy     -160.489528, emin     -160.489528, dr        0.300000
+BasinHopping: step 0, energy     -160.725582, emin     -162.480095, dr        0.300000
+BasinHopping: step 0, energy     -151.487301, emin     -158.318396, dr        0.300000
+BasinHopping: step 0, energy     -160.716364, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -164.303749, emin     -166.716799, dr        0.300000
+BasinHopping: step 0, energy     -152.893429, emin     -167.898529, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -159.355845, emin     -159.355845, dr        0.300000
+BasinHopping: step -1, energy     -153.130998, emin     -153.130998, dr        0.300000
+Optimizations:  82
+BasinHopping: step 0, energy     -154.848287, emin     -159.355845, dr        0.300000
+BasinHopping: step 0, energy     -163.945378, emin     -163.945378, dr        0.300000
+BasinHopping: step 0, energy     -155.014198, emin     -167.898529, dr        0.300000
+BasinHopping: step 0, energy     -156.627957, emin     -160.521195, dr        0.300000
+BasinHopping: step 0, energy     -160.735681, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -160.859421, emin     -160.859421, dr        0.300000
+BasinHopping: step 0, energy     -162.103822, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -158.916632, emin     -162.480095, dr        0.300000
+BasinHopping: step 0, energy     -159.948732, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -167.981112, emin     -167.981112, dr        0.300000
+current bests:
+0 :  -168.182958402  bcm:  [ 1.          0.10528401  0.04553194  0.03309021  0.0509808   0.05619829]
+1 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+2 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+BasinHopping: step -1, energy     -157.249508, emin     -157.249508, dr        0.300000
+BasinHopping: step -1, energy     -167.806822, emin     -167.806822, dr        0.300000
+Optimizations:  91
+BasinHopping: step 0, energy     -140.286159, emin     -157.249508, dr        0.300000
+BasinHopping: step 0, energy     -157.250527, emin     -167.806822, dr        0.300000
+BasinHopping: step 0, energy     -160.550149, emin     -160.550149, dr        0.300000
+BasinHopping: step 0, energy     -162.839551, emin     -162.839551, dr        0.300000
+BasinHopping: step 0, energy     -168.188752, emin     -168.188752, dr        0.300000
+BasinHopping: step 0, energy     -151.072172, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -145.805572, emin     -160.859421, dr        0.300000
+BasinHopping: step 0, energy     -165.055976, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -157.974004, emin     -163.945378, dr        0.300000
+BasinHopping: step 0, energy     -168.479936, emin     -168.479936, dr        0.300000
+mag_mag:  0.0395835190777
+mag_mag:  0.178284204809
+mag_mag:  0.0706779342771
+mag_mag:  0.214737788884
+mag_mag:  0.104180924754
+mag_mag:  0.0465432483378
+mag_mag:  0.232694319557
+mag_mag:  0.120354705982
+mag_mag:  0.0583522664163
+current bests:
+0 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+1 :  -164.000736107  bcm:  [ 1.          0.19796018  0.07836267  0.05514918  0.04484683  0.06150854]
+2 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+BasinHopping: step -1, energy     -151.794903, emin     -151.794903, dr        0.300000
+BasinHopping: step -1, energy     -156.860471, emin     -156.860471, dr        0.300000
+Optimizations:  99
+BasinHopping: step 0, energy     -151.805268, emin     -151.805268, dr        0.300000
+BasinHopping: step 0, energy     -151.094520, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -149.970590, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -151.736413, emin     -167.806822, dr        0.300000
+BasinHopping: step 0, energy     -163.538450, emin     -163.945378, dr        0.300000
+BasinHopping: step 0, energy     -167.439952, emin     -167.439952, dr        0.300000
+BasinHopping: step 0, energy     -165.615277, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -154.018209, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -147.722236, emin     -168.188752, dr        0.300000
+BasinHopping: step 0, energy     -159.819378, emin     -168.479936, dr        0.300000
+mag_mag:  0.176087496849
+mag_mag:  0.073363463656
+mag_mag:  0.0628504450335
+mag_mag:  0.219996714484
+mag_mag:  0.110643153861
+mag_mag:  0.0271148181232
+mag_mag:  0.168643976725
+mag_mag:  0.0547951637846
+mag_mag:  0.0671723045255
+current bests:
+0 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+1 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -161.357043, emin     -161.357043, dr        0.300000
+BasinHopping: step -1, energy     -156.860471, emin     -156.860471, dr        0.300000
+Optimizations:  117
+BasinHopping: step 0, energy     -150.620667, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -149.026961, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -142.638715, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -124.564234, emin     -167.806822, dr        0.300000
+BasinHopping: step 0, energy     -141.289474, emin     -151.805268, dr        0.300000
+BasinHopping: step 0, energy     -124.522241, emin     -167.074068, dr        0.300000
+BasinHopping: step 0, energy     -146.738312, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -130.667562, emin     -163.945378, dr        0.300000
+BasinHopping: step 0, energy     -155.326589, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -144.346022, emin     -167.439952, dr        0.300000
+current bests:
+0 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+1 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -161.190367, emin     -161.190367, dr        0.300000
+BasinHopping: step -1, energy     -159.816701, emin     -159.816701, dr        0.300000
+Optimizations:  132
+BasinHopping: step 0, energy     -146.025701, emin     -161.190367, dr        0.300000
+BasinHopping: step 0, energy     -147.750686, emin     -159.816701, dr        0.300000
+BasinHopping: step 0, energy     -144.281180, emin     -163.945378, dr        0.300000
+BasinHopping: step 0, energy     -154.672686, emin     -154.672686, dr        0.300000
+BasinHopping: step 0, energy     -142.757843, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -144.654587, emin     -167.439952, dr        0.300000
+BasinHopping: step 0, energy     -147.040954, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -151.822627, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -157.393416, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -158.029126, emin     -165.615277, dr        0.300000
+current bests:
+0 :  -159.908221699  bcm:  [ 1.          0.31119945  0.07596739  0.05544416  0.06616597  0.0398704 ]
+1 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -152.518448, emin     -152.518448, dr        0.300000
+BasinHopping: step -1, energy     -159.191658, emin     -159.191658, dr        0.300000
+Optimizations:  142
+BasinHopping: step 0, energy     -140.163263, emin     -152.518448, dr        0.300000
+BasinHopping: step 0, energy     -142.965737, emin     -159.191658, dr        0.300000
+BasinHopping: step 0, energy     -143.518566, emin     -167.439952, dr        0.300000
+BasinHopping: step 0, energy     -151.557422, emin     -161.190367, dr        0.300000
+BasinHopping: step 0, energy     -140.478015, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -139.729417, emin     -159.816701, dr        0.300000
+BasinHopping: step 0, energy     -160.734510, emin     -160.734510, dr        0.300000
+BasinHopping: step 0, energy     -163.146467, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -155.501572, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -146.482247, emin     -165.615277, dr        0.300000
+mag_mag:  0.0902427544967
+mag_mag:  0.151814354085
+mag_mag:  0.0861029131206
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -152.518448, emin     -152.518448, dr        0.300000
+BasinHopping: step -1, energy     -163.430523, emin     -163.430523, dr        0.300000
+Optimizations:  147
+BasinHopping: step 0, energy     -141.140544, emin     -152.518448, dr        0.300000
+BasinHopping: step 0, energy     -148.892105, emin     -163.430523, dr        0.300000
+BasinHopping: step 0, energy     -155.448649, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -154.331794, emin     -159.191658, dr        0.300000
+BasinHopping: step 0, energy     -144.966431, emin     -167.439952, dr        0.300000
+BasinHopping: step 0, energy     -163.640863, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -161.189905, emin     -161.190367, dr        0.300000
+BasinHopping: step 0, energy     -154.015816, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -134.348397, emin     -160.734510, dr        0.300000
+BasinHopping: step 0, energy     -153.198730, emin     -163.146467, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -150.706396, emin     -150.706396, dr        0.300000
+BasinHopping: step -1, energy     -156.860471, emin     -156.860471, dr        0.300000
+Optimizations:  154
+BasinHopping: step 0, energy     -146.178433, emin     -150.706396, dr        0.300000
+BasinHopping: step 0, energy     -140.693136, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -149.543965, emin     -167.439952, dr        0.300000
+BasinHopping: step 0, energy     -142.557124, emin     -163.430523, dr        0.300000
+BasinHopping: step 0, energy     -151.402013, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -148.693776, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -145.762362, emin     -159.191658, dr        0.300000
+BasinHopping: step 0, energy     -158.070350, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -142.101686, emin     -161.190367, dr        0.300000
+BasinHopping: step 0, energy     -158.731330, emin     -165.615277, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -156.913457, emin     -156.913457, dr        0.300000
+BasinHopping: step -1, energy     -163.729984, emin     -163.729984, dr        0.300000
+Optimizations:  161
+BasinHopping: step 0, energy     -152.527843, emin     -156.913457, dr        0.300000
+BasinHopping: step 0, energy     -150.483876, emin     -163.729984, dr        0.300000
+BasinHopping: step 0, energy     -144.850643, emin     -163.430523, dr        0.300000
+BasinHopping: step 0, energy     -132.157507, emin     -159.191658, dr        0.300000
+BasinHopping: step 0, energy     -139.984308, emin     -150.706396, dr        0.300000
+BasinHopping: step 0, energy     -148.018794, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -141.769065, emin     -167.439952, dr        0.300000
+BasinHopping: step 0, energy     -150.712635, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -141.494229, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -147.447863, emin     -165.615277, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -160.877885, emin     -160.877885, dr        0.300000
+BasinHopping: step -1, energy     -160.852839, emin     -160.852839, dr        0.300000
+Optimizations:  169
+BasinHopping: step 0, energy     -152.346158, emin     -160.877885, dr        0.300000
+BasinHopping: step 0, energy     -133.722849, emin     -160.852839, dr        0.300000
+BasinHopping: step 0, energy     -136.884349, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -128.857776, emin     -167.439952, dr        0.300000
+BasinHopping: step 0, energy     -141.259713, emin     -163.430523, dr        0.300000
+BasinHopping: step 0, energy     -155.886673, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -149.424203, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -164.151324, emin     -164.151324, dr        0.300000
+BasinHopping: step 0, energy     -147.320300, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -163.887630, emin     -163.887630, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -163.092432, emin     -163.092432, dr        0.300000
+BasinHopping: step -1, energy     -163.571654, emin     -163.571654, dr        0.300000
+Optimizations:  183
+BasinHopping: step 0, energy     -145.518479, emin     -163.092432, dr        0.300000
+BasinHopping: step 0, energy     -146.876030, emin     -163.571654, dr        0.300000
+BasinHopping: step 0, energy     -127.086835, emin     -168.479936, dr        0.300000
+BasinHopping: step 0, energy     -124.753612, emin     -163.430523, dr        0.300000
+BasinHopping: step 0, energy     -152.213618, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -145.361167, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -158.097612, emin     -160.877885, dr        0.300000
+BasinHopping: step 0, energy     -156.558945, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -160.698148, emin     -163.887630, dr        0.300000
+BasinHopping: step 0, energy     -155.358610, emin     -164.151324, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -157.249508, emin     -157.249508, dr        0.300000
+BasinHopping: step -1, energy     -143.959595, emin     -143.959595, dr        0.300000
+Optimizations:  209
+BasinHopping: step 0, energy     -135.585694, emin     -157.249508, dr        0.300000
+BasinHopping: step 0, energy     -147.039975, emin     -147.039975, dr        0.300000
+BasinHopping: step 0, energy     -152.883047, emin     -161.357043, dr        0.300000
+BasinHopping: step 0, energy     -151.637467, emin     -163.092432, dr        0.300000
+BasinHopping: step 0, energy     -141.823568, emin     -163.571654, dr        0.300000
+BasinHopping: step 0, energy     -151.411374, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -132.123969, emin     -164.151324, dr        0.300000
+BasinHopping: step 0, energy     -152.720212, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -151.792804, emin     -160.877885, dr        0.300000
+BasinHopping: step 0, energy     -148.185209, emin     -163.887630, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -147.955693, emin     -147.955693, dr        0.300000
+BasinHopping: step -1, energy     -152.436529, emin     -152.436529, dr        0.300000
+Optimizations:  216
+BasinHopping: step 0, energy     -141.743392, emin     -147.955693, dr        0.300000
+BasinHopping: step 0, energy     -148.920819, emin     -152.436529, dr        0.300000
+BasinHopping: step 0, energy     -149.288925, emin     -163.571654, dr        0.300000
+BasinHopping: step 0, energy     -142.551875, emin     -147.039975, dr        0.300000
+BasinHopping: step 0, energy     -154.469514, emin     -163.887630, dr        0.300000
+BasinHopping: step 0, energy     -149.488754, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -149.967829, emin     -163.092432, dr        0.300000
+BasinHopping: step 0, energy     -158.092146, emin     -160.877885, dr        0.300000
+BasinHopping: step 0, energy     -154.096139, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -136.068041, emin     -161.357043, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -140.888442, emin     -140.888442, dr        0.300000
+BasinHopping: step -1, energy     -166.358600, emin     -166.358600, dr        0.300000
+Optimizations:  229
+BasinHopping: step 0, energy     -137.025288, emin     -140.888442, dr        0.300000
+BasinHopping: step 0, energy     -137.499452, emin     -166.358600, dr        0.300000
+BasinHopping: step 0, energy     -150.471328, emin     -150.471328, dr        0.300000
+BasinHopping: step 0, energy     -143.113129, emin     -152.436529, dr        0.300000
+BasinHopping: step 0, energy     -134.587275, emin     -163.571654, dr        0.300000
+BasinHopping: step 0, energy     -148.212388, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -137.285108, emin     -163.092432, dr        0.300000
+BasinHopping: step 0, energy     -164.791058, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -141.177594, emin     -163.887630, dr        0.300000
+BasinHopping: step 0, energy     -143.166772, emin     -160.877885, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -148.501551, emin     -148.501551, dr        0.300000
+BasinHopping: step -1, energy     -167.328668, emin     -167.328668, dr        0.300000
+Optimizations:  236
+BasinHopping: step 0, energy     -136.271035, emin     -148.501551, dr        0.300000
+BasinHopping: step 0, energy     -160.649737, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -140.898706, emin     -163.092432, dr        0.300000
+BasinHopping: step 0, energy     -167.090764, emin     -167.090764, dr        0.300000
+BasinHopping: step 0, energy     -153.995685, emin     -163.887630, dr        0.300000
+BasinHopping: step 0, energy     -162.981909, emin     -162.981909, dr        0.300000
+BasinHopping: step 0, energy     -149.326206, emin     -160.877885, dr        0.300000
+BasinHopping: step 0, energy     -135.741713, emin     -163.146467, dr        0.300000
+BasinHopping: step 0, energy     -150.025966, emin     -150.471328, dr        0.300000
+BasinHopping: step 0, energy     -158.948674, emin     -165.615277, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -163.571654, emin     -163.571654, dr        0.300000
+BasinHopping: step -1, energy     -157.898441, emin     -157.898441, dr        0.300000
+Optimizations:  252
+BasinHopping: step 0, energy     -143.990685, emin     -163.571654, dr        0.300000
+BasinHopping: step 0, energy     -152.734399, emin     -157.898441, dr        0.300000
+BasinHopping: step 0, energy     -143.679298, emin     -163.092432, dr        0.300000
+BasinHopping: step 0, energy     -152.091798, emin     -160.877885, dr        0.300000
+BasinHopping: step 0, energy     -147.970784, emin     -150.471328, dr        0.300000
+BasinHopping: step 0, energy     -152.101850, emin     -163.887630, dr        0.300000
+BasinHopping: step 0, energy     -146.168616, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -149.082221, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -159.387361, emin     -162.981909, dr        0.300000
+BasinHopping: step 0, energy     -161.617459, emin     -167.090764, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -167.328668, emin     -167.328668, dr        0.300000
+BasinHopping: step -1, energy     -166.486388, emin     -166.486388, dr        0.300000
+Optimizations:  261
+BasinHopping: step 0, energy     -153.342593, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -161.759867, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -152.344078, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -142.981170, emin     -150.471328, dr        0.300000
+BasinHopping: step 0, energy     -160.926234, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -137.310732, emin     -160.877885, dr        0.300000
+BasinHopping: step 0, energy     -132.102038, emin     -163.887630, dr        0.300000
+BasinHopping: step 0, energy     -154.347057, emin     -157.898441, dr        0.300000
+BasinHopping: step 0, energy     -142.376744, emin     -162.981909, dr        0.300000
+BasinHopping: step 0, energy     -144.438330, emin     -167.090764, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -156.913457, emin     -156.913457, dr        0.300000
+BasinHopping: step -1, energy     -161.174179, emin     -161.174179, dr        0.300000
+Optimizations:  280
+BasinHopping: step 0, energy     -147.832541, emin     -156.913457, dr        0.300000
+BasinHopping: step 0, energy     -134.787824, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -142.634638, emin     -162.981909, dr        0.300000
+BasinHopping: step 0, energy     -146.730987, emin     -150.471328, dr        0.300000
+BasinHopping: step 0, energy     -158.993416, emin     -167.090764, dr        0.300000
+BasinHopping: step 0, energy     -161.526721, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -158.209359, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -167.027918, emin     -167.027918, dr        0.300000
+BasinHopping: step 0, energy     -163.334616, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -150.027981, emin     -166.486388, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -161.031373, emin     -161.031373, dr        0.300000
+BasinHopping: step -1, energy     -161.174179, emin     -161.174179, dr        0.300000
+Optimizations:  289
+BasinHopping: step 0, energy     -142.174133, emin     -161.031373, dr        0.300000
+BasinHopping: step 0, energy     -143.060419, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -153.545351, emin     -153.545351, dr        0.300000
+BasinHopping: step 0, energy     -153.603977, emin     -156.913457, dr        0.300000
+BasinHopping: step 0, energy     -137.878054, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -164.607214, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -142.158392, emin     -167.090764, dr        0.300000
+BasinHopping: step 0, energy     -152.556740, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -152.038753, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -146.115829, emin     -167.027918, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -152.436529, emin     -152.436529, dr        0.300000
+BasinHopping: step -1, energy     -154.880736, emin     -154.880736, dr        0.300000
+Optimizations:  300
+BasinHopping: step 0, energy     -151.367324, emin     -152.436529, dr        0.300000
+BasinHopping: step 0, energy     -151.030499, emin     -154.880736, dr        0.300000
+BasinHopping: step 0, energy     -161.099293, emin     -161.099293, dr        0.300000
+BasinHopping: step 0, energy     -151.932341, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -153.629242, emin     -167.027918, dr        0.300000
+BasinHopping: step 0, energy     -133.782034, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -141.546756, emin     -165.615277, dr        0.300000
+BasinHopping: step 0, energy     -147.959095, emin     -153.545351, dr        0.300000
+BasinHopping: step 0, energy     -148.217367, emin     -156.913457, dr        0.300000
+BasinHopping: step 0, energy     -145.420324, emin     -167.328668, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -163.410707, emin     -163.410707, dr        0.300000
+BasinHopping: step -1, energy     -166.486388, emin     -166.486388, dr        0.300000
+Optimizations:  332
+BasinHopping: step 0, energy     -144.925659, emin     -163.410707, dr        0.300000
+BasinHopping: step 0, energy     -152.822655, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -165.986598, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -155.036540, emin     -155.036540, dr        0.300000
+BasinHopping: step 0, energy     -158.511299, emin     -158.511299, dr        0.300000
+BasinHopping: step 0, energy     -150.227124, emin     -154.880736, dr        0.300000
+BasinHopping: step 0, energy     -150.483639, emin     -152.436529, dr        0.300000
+BasinHopping: step 0, energy     -155.591763, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -153.269239, emin     -167.027918, dr        0.300000
+BasinHopping: step 0, energy     -161.537794, emin     -161.537794, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -167.806822, emin     -167.806822, dr        0.300000
+BasinHopping: step -1, energy     -165.463524, emin     -165.463524, dr        0.300000
+Optimizations:  337
+BasinHopping: step 0, energy     -167.481095, emin     -167.806822, dr        0.300000
+BasinHopping: step 0, energy     -145.368338, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -145.326925, emin     -152.436529, dr        0.300000
+BasinHopping: step 0, energy     -150.227826, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -149.945599, emin     -167.027918, dr        0.300000
+BasinHopping: step 0, energy     -158.830996, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -132.376882, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -151.565354, emin     -158.511299, dr        0.300000
+BasinHopping: step 0, energy     -146.300643, emin     -161.537794, dr        0.300000
+BasinHopping: step 0, energy     -148.829321, emin     -167.328668, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -146.699349, emin     -146.699349, dr        0.300000
+BasinHopping: step -1, energy     -153.482843, emin     -153.482843, dr        0.300000
+Optimizations:  346
+BasinHopping: step 0, energy     -139.528091, emin     -146.699349, dr        0.300000
+BasinHopping: step 0, energy     -148.454605, emin     -153.482843, dr        0.300000
+BasinHopping: step 0, energy     -164.885464, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -150.228741, emin     -161.537794, dr        0.300000
+BasinHopping: step 0, energy     -133.094938, emin     -167.328668, dr        0.300000
+BasinHopping: step 0, energy     -132.519490, emin     -167.027918, dr        0.300000
+BasinHopping: step 0, energy     -152.517787, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -138.330996, emin     -158.511299, dr        0.300000
+BasinHopping: step 0, energy     -157.915164, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -164.578020, emin     -167.806822, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -157.844300, emin     -157.844300, dr        0.300000
+BasinHopping: step -1, energy     -156.938078, emin     -156.938078, dr        0.300000
+Optimizations:  363
+BasinHopping: step 0, energy     -161.458431, emin     -161.458431, dr        0.300000
+BasinHopping: step 0, energy     -152.193699, emin     -156.938078, dr        0.300000
+BasinHopping: step 0, energy     -141.068796, emin     -158.511299, dr        0.300000
+BasinHopping: step 0, energy     -148.753775, emin     -148.753775, dr        0.300000
+BasinHopping: step 0, energy     -165.872754, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -150.892686, emin     -161.537794, dr        0.300000
+BasinHopping: step 0, energy     -139.973113, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -149.362840, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -152.749769, emin     -167.806822, dr        0.300000
+BasinHopping: step 0, energy     -158.054642, emin     -165.463524, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -149.333882, emin     -149.333882, dr        0.300000
+BasinHopping: step -1, energy     -160.835249, emin     -160.835249, dr        0.300000
+Optimizations:  376
+BasinHopping: step 0, energy     -132.791827, emin     -149.333882, dr        0.300000
+BasinHopping: step 0, energy     -146.527389, emin     -160.835249, dr        0.300000
+BasinHopping: step 0, energy     -154.123406, emin     -154.123406, dr        0.300000
+BasinHopping: step 0, energy     -153.285797, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -149.558326, emin     -161.537794, dr        0.300000
+BasinHopping: step 0, energy     -154.725598, emin     -156.938078, dr        0.300000
+BasinHopping: step 0, energy     -149.542207, emin     -167.806822, dr        0.300000
+BasinHopping: step 0, energy     -136.343852, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -151.370876, emin     -161.458431, dr        0.300000
+BasinHopping: step 0, energy     -165.797462, emin     -165.872754, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -165.463524, emin     -165.463524, dr        0.300000
+BasinHopping: step -1, energy     -161.174179, emin     -161.174179, dr        0.300000
+Optimizations:  383
+BasinHopping: step 0, energy     -144.226061, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -156.527599, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -159.350117, emin     -160.835249, dr        0.300000
+BasinHopping: step 0, energy     -144.188032, emin     -167.806822, dr        0.300000
+BasinHopping: step 0, energy     -144.220808, emin     -161.537794, dr        0.300000
+BasinHopping: step 0, energy     -150.569810, emin     -161.458431, dr        0.300000
+BasinHopping: step 0, energy     -150.909211, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -164.722663, emin     -164.722663, dr        0.300000
+BasinHopping: step 0, energy     -151.861274, emin     -156.938078, dr        0.300000
+BasinHopping: step 0, energy     -151.768067, emin     -165.872754, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -158.928906, emin     -158.928906, dr        0.300000
+BasinHopping: step -1, energy     -161.031373, emin     -161.031373, dr        0.300000
+Optimizations:  398
+BasinHopping: step 0, energy     -120.671490, emin     -158.928906, dr        0.300000
+BasinHopping: step 0, energy     -145.210295, emin     -161.031373, dr        0.300000
+BasinHopping: step 0, energy     -152.974852, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -146.829742, emin     -161.458431, dr        0.300000
+BasinHopping: step 0, energy     -147.574498, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -146.064795, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -147.264279, emin     -156.938078, dr        0.300000
+BasinHopping: step 0, energy     -148.669189, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -159.239203, emin     -160.835249, dr        0.300000
+BasinHopping: step 0, energy     -158.237939, emin     -164.722663, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -146.699349, emin     -146.699349, dr        0.300000
+BasinHopping: step -1, energy     -155.107799, emin     -155.107799, dr        0.300000
+Optimizations:  402
+BasinHopping: step 0, energy     -157.331277, emin     -157.331277, dr        0.300000
+BasinHopping: step 0, energy     -150.263618, emin     -155.107799, dr        0.300000
+BasinHopping: step 0, energy     -162.022158, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -149.605104, emin     -161.458431, dr        0.300000
+BasinHopping: step 0, energy     -146.095794, emin     -156.938078, dr        0.300000
+BasinHopping: step 0, energy     -149.818819, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -157.618688, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -150.334846, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -160.753926, emin     -164.722663, dr        0.300000
+BasinHopping: step 0, energy     -137.966540, emin     -160.835249, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -167.175054, emin     -167.175054, dr        0.300000
+BasinHopping: step -1, energy     -145.758033, emin     -145.758033, dr        0.300000
+Optimizations:  413
+BasinHopping: step 0, energy     -145.478061, emin     -167.175054, dr        0.300000
+BasinHopping: step 0, energy     -152.400581, emin     -152.400581, dr        0.300000
+BasinHopping: step 0, energy     -140.631718, emin     -161.458431, dr        0.300000
+BasinHopping: step 0, energy     -148.847216, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -167.114300, emin     -167.114300, dr        0.300000
+BasinHopping: step 0, energy     -140.847559, emin     -165.463524, dr        0.300000
+BasinHopping: step 0, energy     -149.773839, emin     -157.331277, dr        0.300000
+BasinHopping: step 0, energy     -149.038267, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -151.308347, emin     -164.722663, dr        0.300000
+BasinHopping: step 0, energy     -148.865918, emin     -165.872754, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -148.452018, emin     -148.452018, dr        0.300000
+BasinHopping: step -1, energy     -165.230118, emin     -165.230118, dr        0.300000
+Optimizations:  425
+BasinHopping: step 0, energy     -137.269257, emin     -148.452018, dr        0.300000
+BasinHopping: step 0, energy     -144.708900, emin     -165.230118, dr        0.300000
+BasinHopping: step 0, energy     -152.488600, emin     -167.175054, dr        0.300000
+BasinHopping: step 0, energy     -139.385397, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -150.481691, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -152.068443, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -162.404513, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -166.437887, emin     -166.437887, dr        0.300000
+BasinHopping: step 0, energy     -135.551966, emin     -152.400581, dr        0.300000
+BasinHopping: step 0, energy     -162.384713, emin     -167.114300, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -156.913457, emin     -156.913457, dr        0.300000
+BasinHopping: step -1, energy     -147.199126, emin     -147.199126, dr        0.300000
+Optimizations:  430
+BasinHopping: step 0, energy     -138.709302, emin     -156.913457, dr        0.300000
+BasinHopping: step 0, energy     -146.532892, emin     -147.199126, dr        0.300000
+BasinHopping: step 0, energy     -158.634806, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -157.467179, emin     -165.230118, dr        0.300000
+BasinHopping: step 0, energy     -148.651084, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -158.890657, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -161.174505, emin     -167.175054, dr        0.300000
+BasinHopping: step 0, energy     -139.657268, emin     -167.114300, dr        0.300000
+BasinHopping: step 0, energy     -153.710437, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -167.009281, emin     -167.009281, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -164.339734, emin     -164.339734, dr        0.300000
+BasinHopping: step -1, energy     -148.501551, emin     -148.501551, dr        0.300000
+Optimizations:  437
+BasinHopping: step 0, energy     -152.945964, emin     -164.339734, dr        0.300000
+BasinHopping: step 0, energy     -164.748820, emin     -164.748820, dr        0.300000
+BasinHopping: step 0, energy     -140.232241, emin     -147.199126, dr        0.300000
+BasinHopping: step 0, energy     -155.820008, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -147.809924, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -155.512070, emin     -165.230118, dr        0.300000
+BasinHopping: step 0, energy     -155.812478, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -154.762968, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -149.899997, emin     -167.175054, dr        0.300000
+BasinHopping: step 0, energy     -136.488535, emin     -167.009281, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -161.301883, emin     -161.301883, dr        0.300000
+BasinHopping: step -1, energy     -152.023964, emin     -152.023964, dr        0.300000
+Optimizations:  451
+BasinHopping: step 0, energy     -138.255074, emin     -161.301883, dr        0.300000
+BasinHopping: step 0, energy     -151.033561, emin     -152.023964, dr        0.300000
+BasinHopping: step 0, energy     -159.615080, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -146.048176, emin     -167.175054, dr        0.300000
+BasinHopping: step 0, energy     -159.849254, emin     -164.339734, dr        0.300000
+BasinHopping: step 0, energy     -146.307658, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -140.533070, emin     -165.230118, dr        0.300000
+BasinHopping: step 0, energy     -147.393632, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -157.835964, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -137.980696, emin     -164.748820, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -161.174179, emin     -161.174179, dr        0.300000
+BasinHopping: step -1, energy     -147.182633, emin     -147.182633, dr        0.300000
+Optimizations:  456
+BasinHopping: step 0, energy     -140.942531, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -148.802558, emin     -148.802558, dr        0.300000
+BasinHopping: step 0, energy     -141.484834, emin     -165.230118, dr        0.300000
+BasinHopping: step 0, energy     -159.443302, emin     -167.175054, dr        0.300000
+BasinHopping: step 0, energy     -142.027841, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -154.374832, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -145.771641, emin     -152.023964, dr        0.300000
+BasinHopping: step 0, energy     -163.262219, emin     -165.872754, dr        0.300000
+BasinHopping: step 0, energy     -144.949163, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -153.028602, emin     -164.339734, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -155.598219, emin     -155.598219, dr        0.300000
+BasinHopping: step -1, energy     -161.771577, emin     -161.771577, dr        0.300000
+Optimizations:  464
+BasinHopping: step 0, energy     -146.189402, emin     -155.598219, dr        0.300000
+BasinHopping: step 0, energy     -158.012810, emin     -161.771577, dr        0.300000
+BasinHopping: step 0, energy     -155.555155, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -154.336694, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -152.758697, emin     -152.758697, dr        0.300000
+BasinHopping: step 0, energy     -145.230349, emin     -148.802558, dr        0.300000
+BasinHopping: step 0, energy     -145.689372, emin     -164.339734, dr        0.300000
+BasinHopping: step 0, energy     -156.614278, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -138.319372, emin     -167.175054, dr        0.300000
+BasinHopping: step 0, energy     -143.739141, emin     -165.872754, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -152.436529, emin     -152.436529, dr        0.300000
+BasinHopping: step -1, energy     -159.527921, emin     -159.527921, dr        0.300000
+Optimizations:  486
+BasinHopping: step 0, energy     -128.150022, emin     -152.436529, dr        0.300000
+BasinHopping: step 0, energy     -146.155198, emin     -159.527921, dr        0.300000
+BasinHopping: step 0, energy     -159.573232, emin     -159.573232, dr        0.300000
+BasinHopping: step 0, energy     -128.468492, emin     -164.339734, dr        0.300000
+BasinHopping: step 0, energy     -151.018911, emin     -155.598219, dr        0.300000
+BasinHopping: step 0, energy     -159.217781, emin     -159.217781, dr        0.300000
+BasinHopping: step 0, energy     -148.067702, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -128.794687, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -148.998259, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -160.678417, emin     -161.771577, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -148.501551, emin     -148.501551, dr        0.300000
+BasinHopping: step -1, energy     -158.928906, emin     -158.928906, dr        0.300000
+Optimizations:  494
+BasinHopping: step 0, energy     -147.756937, emin     -148.501551, dr        0.300000
+BasinHopping: step 0, energy     -133.192982, emin     -158.928906, dr        0.300000
+BasinHopping: step 0, energy     -159.380257, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -161.349118, emin     -161.349118, dr        0.300000
+BasinHopping: step 0, energy     -150.769748, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -145.968035, emin     -158.830996, dr        0.300000
+BasinHopping: step 0, energy     -149.972711, emin     -155.598219, dr        0.300000
+BasinHopping: step 0, energy     -155.605990, emin     -159.217781, dr        0.300000
+BasinHopping: step 0, energy     -158.073573, emin     -159.573232, dr        0.300000
+BasinHopping: step 0, energy     -157.517957, emin     -161.771577, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -150.706396, emin     -150.706396, dr        0.300000
+BasinHopping: step -1, energy     -161.906284, emin     -161.906284, dr        0.300000
+Optimizations:  523
+BasinHopping: step 0, energy     -141.300288, emin     -150.706396, dr        0.300000
+BasinHopping: step 0, energy     -151.902492, emin     -161.906284, dr        0.300000
+BasinHopping: step 0, energy     -149.187119, emin     -149.187119, dr        0.300000
+BasinHopping: step 0, energy     -123.246489, emin     -155.598219, dr        0.300000
+BasinHopping: step 0, energy     -146.084861, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -157.567538, emin     -159.217781, dr        0.300000
+BasinHopping: step 0, energy     -148.966775, emin     -161.771577, dr        0.300000
+BasinHopping: step 0, energy     -145.837576, emin     -159.573232, dr        0.300000
+BasinHopping: step 0, energy     -136.541308, emin     -161.174179, dr        0.300000
+BasinHopping: step 0, energy     -157.216787, emin     -161.349118, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -156.860471, emin     -156.860471, dr        0.300000
+BasinHopping: step -1, energy     -159.527921, emin     -159.527921, dr        0.300000
+Optimizations:  542
+BasinHopping: step 0, energy     -150.291985, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -146.931306, emin     -159.527921, dr        0.300000
+BasinHopping: step 0, energy     -159.905825, emin     -159.905825, dr        0.300000
+BasinHopping: step 0, energy     -145.011391, emin     -159.573232, dr        0.300000
+BasinHopping: step 0, energy     -152.529106, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -103.411219, emin     -161.771577, dr        0.300000
+BasinHopping: step 0, energy     -145.477743, emin     -149.187119, dr        0.300000
+BasinHopping: step 0, energy     -147.897415, emin     -161.906284, dr        0.300000
+BasinHopping: step 0, energy     -149.759390, emin     -161.349118, dr        0.300000
+BasinHopping: step 0, energy     -159.559316, emin     -159.559316, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -143.959595, emin     -143.959595, dr        0.300000
+BasinHopping: step -1, energy     -153.967151, emin     -153.967151, dr        0.300000
+Optimizations:  555
+BasinHopping: step 0, energy     -136.510250, emin     -143.959595, dr        0.300000
+BasinHopping: step 0, energy     -132.811216, emin     -153.967151, dr        0.300000
+BasinHopping: step 0, energy     -146.993290, emin     -149.187119, dr        0.300000
+BasinHopping: step 0, energy     -152.918170, emin     -159.527921, dr        0.300000
+BasinHopping: step 0, energy     -165.748187, emin     -165.748187, dr        0.300000
+BasinHopping: step 0, energy     -141.929257, emin     -161.349118, dr        0.300000
+BasinHopping: step 0, energy     -139.553929, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -149.786178, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -148.815817, emin     -159.559316, dr        0.300000
+BasinHopping: step 0, energy     -159.694855, emin     -159.905825, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -147.208668, emin     -147.208668, dr        0.300000
+BasinHopping: step -1, energy     -166.486388, emin     -166.486388, dr        0.300000
+Optimizations:  559
+BasinHopping: step 0, energy     -126.596280, emin     -147.208668, dr        0.300000
+BasinHopping: step 0, energy     -160.359501, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -152.285870, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -143.845741, emin     -161.349118, dr        0.300000
+BasinHopping: step 0, energy     -149.181118, emin     -149.187119, dr        0.300000
+BasinHopping: step 0, energy     -163.132802, emin     -163.132802, dr        0.300000
+BasinHopping: step 0, energy     -142.289351, emin     -162.404513, dr        0.300000
+BasinHopping: step 0, energy     -148.101655, emin     -159.527921, dr        0.300000
+BasinHopping: step 0, energy     -146.534512, emin     -159.905825, dr        0.300000
+BasinHopping: step 0, energy     -149.074721, emin     -165.748187, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -153.014922, emin     -153.014922, dr        0.300000
+BasinHopping: step -1, energy     -146.699349, emin     -146.699349, dr        0.300000
+Optimizations:  576
+BasinHopping: step 0, energy     -140.933396, emin     -153.014922, dr        0.300000
+BasinHopping: step 0, energy     -145.656476, emin     -146.699349, dr        0.300000
+BasinHopping: step 0, energy     -151.910071, emin     -161.349118, dr        0.300000
+BasinHopping: step 0, energy     -148.684881, emin     -159.905825, dr        0.300000
+BasinHopping: step 0, energy     -134.097413, emin     -159.527921, dr        0.300000
+BasinHopping: step 0, energy     -158.624003, emin     -165.748187, dr        0.300000
+BasinHopping: step 0, energy     -150.789580, emin     -150.789580, dr        0.300000
+BasinHopping: step 0, energy     -134.911721, emin     -156.860471, dr        0.300000
+BasinHopping: step 0, energy     -144.250448, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -165.809116, emin     -165.809116, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -164.380217, emin     -164.380217, dr        0.300000
+BasinHopping: step -1, energy     -163.410707, emin     -163.410707, dr        0.300000
+Optimizations:  586
+BasinHopping: step 0, energy     -131.713583, emin     -164.380217, dr        0.300000
+BasinHopping: step 0, energy     -147.365842, emin     -163.410707, dr        0.300000
+BasinHopping: step 0, energy     -154.252000, emin     -154.252000, dr        0.300000
+BasinHopping: step 0, energy     -148.377525, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -160.882506, emin     -160.882506, dr        0.300000
+BasinHopping: step 0, energy     -133.216029, emin     -159.905825, dr        0.300000
+BasinHopping: step 0, energy     -156.704855, emin     -156.704855, dr        0.300000
+BasinHopping: step 0, energy     -124.926435, emin     -161.349118, dr        0.300000
+BasinHopping: step 0, energy     -148.806672, emin     -165.748187, dr        0.300000
+BasinHopping: step 0, energy     -145.079401, emin     -165.809116, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -162.684796, emin     -162.684796, dr        0.300000
+BasinHopping: step -1, energy     -164.315001, emin     -164.315001, dr        0.300000
+Optimizations:  597
+BasinHopping: step 0, energy     -154.550672, emin     -162.684796, dr        0.300000
+BasinHopping: step 0, energy     -160.079673, emin     -164.315001, dr        0.300000
+BasinHopping: step 0, energy     -149.680231, emin     -159.905825, dr        0.300000
+BasinHopping: step 0, energy     -156.948069, emin     -165.809116, dr        0.300000
+BasinHopping: step 0, energy     -153.617370, emin     -163.410707, dr        0.300000
+BasinHopping: step 0, energy     -149.917086, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -156.061181, emin     -165.748187, dr        0.300000
+BasinHopping: step 0, energy     -149.063310, emin     -154.252000, dr        0.300000
+BasinHopping: step 0, energy     -150.545534, emin     -156.704855, dr        0.300000
+BasinHopping: step 0, energy     -149.143412, emin     -160.882506, dr        0.300000
+current bests:
+0 :  -168.479935892  bcm:  [ 1.          0.08351949  0.04631572  0.03626259  0.04318371  0.06296031]
+1 :  -160.734510112  bcm:  [ 1.          0.22746815  0.08545064  0.06417783  0.04185066  0.05924514]
+2 :  -165.615277178  bcm:  [ 1.          0.1465088   0.06841628  0.04046913  0.03953327  0.05795931]
+BasinHopping: step -1, energy     -161.771577, emin     -161.771577, dr        0.300000
+BasinHopping: step -1, energy     -165.434823, emin     -165.434823, dr        0.300000
+Optimizations:  605
+BasinHopping: step 0, energy     -152.347880, emin     -161.771577, dr        0.300000
+BasinHopping: step 0, energy     -138.103556, emin     -165.434823, dr        0.300000
+BasinHopping: step 0, energy     -147.286034, emin     -159.905825, dr        0.300000
+BasinHopping: step 0, energy     -156.025143, emin     -166.486388, dr        0.300000
+BasinHopping: step 0, energy     -139.166524, emin     -156.704855, dr        0.300000
+BasinHopping: step 0, energy     -158.574460, emin     -163.410707, dr        0.300000

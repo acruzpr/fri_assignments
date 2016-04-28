@@ -1,0 +1,70 @@
+start
+BasinHopping: step -1, energy      -99.256128, emin      -99.256128, dr        0.300000
+BasinHopping: step -1, energy      -95.386033, emin      -95.386033, dr        0.300000
+BasinHopping: step -1, energy      -98.764931, emin      -98.764931, dr        0.300000
+BasinHopping: step -1, energy      -89.604687, emin      -89.604687, dr        0.300000
+BasinHopping: step -1, energy      -94.437989, emin      -94.437989, dr        0.300000
+BasinHopping: step -1, energy     -102.372662, emin     -102.372662, dr        0.300000
+BasinHopping: step -1, energy      -89.580835, emin      -89.580835, dr        0.300000
+BasinHopping: step -1, energy      -95.039038, emin      -95.039038, dr        0.300000
+BasinHopping: step -1, energy      -99.185963, emin      -99.185963, dr        0.300000
+BasinHopping: step -1, energy      -97.478103, emin      -97.478103, dr        0.300000
+mag_mag:  1.02972063392
+mag_mag:  1.02972063392
+mag_mag:  1.02972063392
+mag_mag:  1.03486448423
+mag_mag:  1.03486448423
+mag_mag:  0.0403950969049
+mag_mag:  1.02305488257
+mag_mag:  1.02305488257
+mag_mag:  0.0443389730532
+mag_mag:  1.08616025246
+mag_mag:  1.08616025246
+mag_mag:  0.18309322917
+mag_mag:  1.05003206465
+mag_mag:  0.113954341719
+mag_mag:  0.0859245795303
+mag_mag:  1.00533413381
+mag_mag:  0.333087046106
+mag_mag:  0.153333505012
+mag_mag:  1.08641903205
+mag_mag:  0.0765583565321
+mag_mag:  0.34144703883
+mag_mag:  1.04505411544
+mag_mag:  0.146249258195
+mag_mag:  0.220008519037
+mag_mag:  1.01248048538
+mag_mag:  0.180208024786
+mag_mag:  0.0569524346578
+mag_mag:  1.02871134353
+mag_mag:  0.0998101974098
+mag_mag:  0.145551035377
+current bests:
+0 :  0  bcm:  [0, 0, 0, 0, 0, 0]
+1 :  -97.4781025035  bcm:  [ 1.          0.18947048  0.08062807  0.0788434   0.05209972  0.083165  ]
+2 :  -102.372662015  bcm:  [ 1.          0.06032468  0.04217848  0.04327434  0.03924663  0.04319332]
+BasinHopping: step 0, energy      -99.256128, emin      -99.256128, dr        0.300000
+BasinHopping: step 0, energy      -96.670637, emin      -96.670637, dr        0.300000
+BasinHopping: step 0, energy      -89.393645, emin      -98.764931, dr        0.300000
+BasinHopping: step 0, energy      -95.940110, emin      -95.940110, dr        0.300000
+BasinHopping: step 0, energy      -98.353061, emin      -98.353061, dr        0.300000
+BasinHopping: step 0, energy      -96.774499, emin     -102.372662, dr        0.300000
+BasinHopping: step 0, energy      -98.815558, emin      -98.815558, dr        0.300000
+BasinHopping: step 0, energy      -92.385378, emin      -95.039038, dr        0.300000
+BasinHopping: step 0, energy      -95.187001, emin      -99.185963, dr        0.300000
+BasinHopping: step 0, energy      -93.249399, emin      -97.478103, dr        0.300000
+mag_mag:  1.07009957561
+mag_mag:  1.07009957561
+mag_mag:  0.139030265642
+mag_mag:  1.02191202619
+mag_mag:  0.177084796488
+mag_mag:  0.0527191262223
+mag_mag:  1.05014364264
+mag_mag:  0.0680212847767
+mag_mag:  0.0784722239323
+mag_mag:  1.0230836018
+mag_mag:  0.181818638195
+mag_mag:  0.0609136753901
+mag_mag:  1.00871806455
+mag_mag:  0.323811450508
+mag_mag:  0.193042351041

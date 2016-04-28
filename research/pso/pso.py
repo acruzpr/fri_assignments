@@ -17,12 +17,14 @@ import os
 
 #Constants
 POPULATION = 8
-NUM_BESTS = 5
+NUM_BESTS = 1
 #MIN_ENERGY = -173.928427
 MIN_ENERGY = -108.315
 BEST_BCM_CUTOFF = 0.1
-REMOVE_FOR_DIVERSITY = max(1,int(POPULATION / 5))
+REMOVE_FOR_DIVERSITY = int(max(1,ceil(POPULATION / 5.0)))
 STRUCTURE_SIZE = 26
+
+print "rfd:", REMOVE_FOR_DIVERSITY
 
 
 def mag(cls,vec):
@@ -127,52 +129,73 @@ def remove_worst(structures):
         sum_bcms += struct[i].bcms
         struct[i] = random_structure()
     #print struct
-    return struct,sum_opts,bcms
+    return struct,sum_opts,sum_bcms
+
+
+
+def run(opt_limit):
+    if os.path.exists("best.con"):
+        os.remove("best.con")
+    if os.path.exists("local_minima.con"):
+        os.remove("local_minima.con")
+
+
+    structures = [None] * POPULATION
+    for i in range(POPULATION):
+        structures[i] = random_structure()
+        #print i, ': ',  structures[i].get_bcm()
+
+
+    bests = [placeholder_structure()] * NUM_BESTS
+
+    best_energy = 1.e32
+    local_optimizations = 0
+    bcms = 0
+    bests = insert_all(bests,structures)
+    while best_energy>MIN_ENERGY and local_optimizations < opt_limit:
+        for i in structures:
+            i.run(1,bests)
+        structures,remove_opts,remove_bcms = remove_worst(structures)
+        bests = insert_all(bests,structures)
+        local_optimizations += remove_opts
+        bcms += remove_bcms
+        best_energy = min(bests[-1].get_energy(),best_energy)
+        print "Optimizations: ", local_optimizations, "Bcms: ", bcms, "Best Energy: ", best_energy
+
+    for i in structures:
+        local_optimizations += i.local_optimizations
+        bcms += i.bcms
+    print "Optimizations: ", local_optimizations, "Bcms: ", bcms, "Best Energy: ", best_energy
+
+    print "calc finished"
+    for i in range(NUM_BESTS):
+        print i, ': ', bests[i].get_energy(), " bcm: ", bests[i].get_bcm()
+        #tsase.io.write_con("bests.con",
+    return local_optimizations, bcms
 
 
 print 'start'
-
-if os.path.exists("best.con"):
-	os.remove("best.con")
-if os.path.exists("local_minima.con"):
-	os.remove("local_minima.con")
 
 random_structure_arr = [0]*100
 for i in range(100):
     random_structure_arr[i] = '../100_lj38/'+str(i)+'.con'
 
-structures = [None] * POPULATION
-for i in range(POPULATION):
-    structures[i] = random_structure()
-    #print i, ': ',  structures[i].get_bcm()
-
-
-bests = [placeholder_structure()] * NUM_BESTS
-
-best_energy = 1.e32
-local_optimizations = 0
+run_for = 10
+opt_limit = 5000
+failures = 0
+opts = 0
 bcms = 0
-bests = insert_all(bests,structures)
-while best_energy>MIN_ENERGY:
-    for i in structures:
-        i.run(1,bests)
-    structures,remove_opts,remove_bcms = remove_worst(structures)
-    bests = insert_all(bests,structures)
-    local_optimizations += remove_opts
-    bcms += remove_bcms
-    best_energy = min(bests[-1].get_energy(),best_energy)
-    print "Optimizations: ", local_optimizations, "Bcms: ", bcms, "Best Energy: ", best_energy
+for i in range(run_for):
+    lopts,lbcms = run(opt_limit)
+    if lopts > opt_limit:
+        failures += 1
+    else:
+        opts += lopts
+        bcms += lbcms
 
-for i in structures:
-    local_optimizations += i.local_optimizations
-    bcms += i.bcms
-print "Optimizations: ", local_optimizations, "Bcms: ", bcms, "Best Energy: ", best_energy
-
-for i in range(NUM_BESTS):
-    print i, ': ', bests[i].get_energy(), " bcm: ", bests[i].get_bcm()
-    #tsase.io.write_con("bests.con",
-
-
+print "final failures:", failures
+print "avg opts: ", opts/(run_for-failures)
+print "avg bcms: ", bcms/(run_for-failures)
 
 #sys.exit()
 

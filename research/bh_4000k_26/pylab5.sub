@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+#$ -cwd
+#$ -j y
+#$ -N lj38_4000k
+#$ -m es
+#$ -V
+#$ -M brian.mathew.richer@gmail.com
+#$ -o ll_out
+#$ -S /bin/bash
+
+python basin_hopping.py
+
+
+
