@@ -45,6 +45,7 @@ class BasinHopping(Dynamics):
                  ):
         Dynamics.__init__(self, atoms, logfile, trajectory)
         self.local_optimizations = 0
+        self.bcms = 0
         self.kT = temperature
         self.optimizer = optimizer
         self.fmax = fmax
@@ -231,6 +232,7 @@ class BasinHopping(Dynamics):
 
     def get_bcm(self):
         if self.bcm_changed:
+            self.bcms += 1
             self.bcm_changed = False
             self.bcm = self.bcm_calculator.get_bcm(self.atoms.get_positions(), self.cm)
         return self.bcm

@@ -19,7 +19,7 @@ import os
 POPULATION = 30
 NUM_BESTS = 5
 MIN_ENERGY = -173.928
-#MIN_ENERGY = -108.316
+#MIN_ENERGY = -108.315
 BEST_BCM_CUTOFF = -1
 REMOVE_FOR_DIVERSITY = max(1,int(POPULATION / 5))
 STRUCTURE_SIZE = 38
@@ -42,8 +42,12 @@ def get_basin_hop(p,energy_goal):
 
 lj = tsase.calculators.lj(cutoff=35.0)
 def random_structure():
-    r = tsase.io.read_con(random_structure_arr[int(random()*100)])
+    #r = tsase.io.read_con(random_structure_arr[int(random()*100)])
+
+    r = tsase.io.read_con(random_structure_arr[0])
     r = r[0:STRUCTURE_SIZE]
+    r.set_positions(r.get_positions()+np.random.uniform(-1,1,(STRUCTURE_SIZE,3)))
+
     #r = tsase.io.read_con("structure.con")
     #r.set_positions(r.get_positions()[0:25])
     r.center(100.0)
@@ -117,11 +121,13 @@ def remove_worst(structures):
         #print i.get_energy()
     #print struct
     sum_opts = 0
+    sum_bcms = 0
     for i in range(REMOVE_FOR_DIVERSITY):
         sum_opts += struct[i].local_optimizations
+        sum_bcms += struct[i].bcms
         struct[i] = random_structure()
     #print struct
-    return struct,sum_opts
+    return struct,sum_opts,bcms
 
 
 print 'start'
@@ -145,19 +151,22 @@ bests = [placeholder_structure()] * NUM_BESTS
 
 best_energy = 1.e32
 local_optimizations = 0
+bcms = 0
 bests = insert_all(bests,structures)
 while best_energy>MIN_ENERGY:
     for i in structures:
         i.run(1,bests)
-    structures,remove_opts = remove_worst(structures)
+    structures,remove_opts,remove_bcms = remove_worst(structures)
     bests = insert_all(bests,structures)
     local_optimizations += remove_opts
+    bcms += remove_bcms
     best_energy = min(bests[-1].get_energy(),best_energy)
-    print "Optimizations: ", local_optimizations, "Best Energy: ", best_energy
+    print "Optimizations: ", local_optimizations, "Bcms: ", bcms, "Best Energy: ", best_energy
 
 for i in structures:
     local_optimizations += i.local_optimizations
-print "Optimizations: ", local_optimizations
+    bcms += i.bcms
+print "Optimizations: ", local_optimizations, "Bcms: ", bcms, "Best Energy: ", best_energy
 
 for i in range(NUM_BESTS):
     print i, ': ', bests[i].get_energy(), " bcm: ", bests[i].get_bcm()

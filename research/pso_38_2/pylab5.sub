@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+#$ -cwd
+#$ -j y
+#$ -N pso_38_2
+#$ -m es
+#$ -V
+#$ -M brian.mathew.richer@gmail.com
+#$ -o ll_out
+#$ -S /bin/bash
+
+python pso.py
+
+
+

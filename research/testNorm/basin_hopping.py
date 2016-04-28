@@ -21,13 +21,13 @@ def basin_hop(p):
                          fmax = 0.01,
                          dr = displacement,
                          adjust_cm = True,
-                         minenergy = -173.928,
+                         minenergy = -108.315,
                          #minenergy = -1,
                          distribution = 'uniform',
                          optimizer_logfile = None # uncomment this line if you do not want the information from each optimization to print 
 
                          )
-    opt.run(1)
+    opt.run(5000)
     for i in range(len(opt.norm_dists)):
         print i, ' ', opt.norm_dists[i]
 
